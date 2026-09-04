@@ -2,6 +2,9 @@
 
 2시간마다 분야별 RSS 뉴스를 자동 수집해 웹 페이지로 보여주고, 하루 한 번 AI 요약과 함께 Discord로 전송하는 프로젝트입니다.
 
+- **배포 주소**: https://mynews-2608.vercel.app
+- **저장소**: https://github.com/frontierall/mynews-2608
+
 ## 구성
 
 - **수집**: `scripts/collect-news.ts` — `src/lib/categories.ts`에 정의된 분야별 RSS 피드에서 기사를 모아 `data/news/YYYY-MM-DD.json`(KST 기준)에 저장
@@ -22,15 +25,15 @@ npm run digest:discord   # 수동으로 Discord 전송 (.env에 아래 값 필�
 
 `.env.example`을 `.env`로 복사하고 값을 채워주세요.
 
-## 필요한 설정 (배포 전 체크리스트)
+## 설정 현황
 
-1. **GitHub 저장소 연결**: 이 프로젝트를 GitHub 원격 저장소에 push (Actions는 원격 저장소가 있어야 동작)
-2. **Discord Webhook 생성**: Discord 서버 → 채널 설정 → 연동 → 웹후크 → URL 복사
-3. **Anthropic API 키 발급**: [console.anthropic.com](https://console.anthropic.com)에서 발급
-4. **GitHub Secrets 등록**: 저장소 Settings → Secrets and variables → Actions
-   - `DISCORD_WEBHOOK_URL`
-   - `ANTHROPIC_API_KEY`
-5. **Vercel 배포 + Git 연동**: Vercel에 저장소를 연결해두면, GitHub Actions가 새 뉴스를 커밋할 때마다 자동으로 재배포되어 화면이 최신 상태로 유지됩니다.
+| 항목 | 상태 |
+| --- | --- |
+| GitHub 원격 저장소 연결 | ✅ `frontierall/mynews-2608` |
+| GitHub Secrets 등록 (`DISCORD_WEBHOOK_URL`, `ANTHROPIC_API_KEY`) | ✅ 완료 |
+| `collect-news` 워크플로우 실제 실행 검증 | ✅ 수동 실행 성공 (Actions 환경에서 정상 커밋/푸시 확인) |
+| `discord-digest` 워크플로우 실제 실행 검증 | ⏳ 매일 21:00 KST 예정 실행에서 확인 예정 |
+| Vercel 배포 + Git 연동 | ✅ push할 때마다 자동 재배포 |
 
 ## 데이터 저장 방식
 
