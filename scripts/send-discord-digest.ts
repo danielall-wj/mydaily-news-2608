@@ -4,7 +4,8 @@ import { extractTrendingKeywords } from "../src/lib/trending";
 import { kstDateString } from "../src/lib/date";
 import type { Article } from "../src/lib/types";
 
-const MAX_TITLES_PER_CATEGORY = 5;
+const MAX_TITLES_PER_CATEGORY = 3;
+const MAX_TITLE_LENGTH = 60;
 const CATEGORY_COLORS: Record<string, number> = {
   politics: 0x6b7280,
   business: 0xf59e0b,
@@ -14,8 +15,14 @@ const CATEGORY_COLORS: Record<string, number> = {
   entertainment: 0xec4899,
 };
 
+function truncateTitle(title: string): string {
+  return title.length > MAX_TITLE_LENGTH ? `${title.slice(0, MAX_TITLE_LENGTH)}…` : title;
+}
+
 function listTitles(articles: Article[]): string {
-  const lines = articles.slice(0, MAX_TITLES_PER_CATEGORY).map((a) => `- [${a.title}](${a.link})`);
+  const lines = articles
+    .slice(0, MAX_TITLES_PER_CATEGORY)
+    .map((a) => `- [${truncateTitle(a.title)}](${a.link})`);
   return lines.join("\n") || "수집된 기사가 없습니다.";
 }
 
