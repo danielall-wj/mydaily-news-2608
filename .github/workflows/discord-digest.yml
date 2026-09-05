@@ -22,4 +22,3 @@ jobs:
       - run: npx tsx scripts/send-discord-digest.ts
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
