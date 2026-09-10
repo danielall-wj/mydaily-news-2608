@@ -1,0 +1,551 @@
+<title>오늘의 트렌드 뉴스 파이프라인</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:ital,wght@0,400;1,400&display=swap">
+
+<style>
+  :root {
+    --ground: #F5F7F3;
+    --surface: #FFFFFF;
+    --ink: #1B2420;
+    --ink-soft: #46514A;
+    --muted: #737E76;
+    --rule: #DBE0D7;
+    --rule-soft: #E9EDE6;
+    --live: #2F6F4F;
+    --live-bg: #E4EFE7;
+    --dead: #A65432;
+    --dead-bg: #F6E7DF;
+
+    --sans: "IBM Plex Sans KR", system-ui, -apple-system, "Malgun Gothic", sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", monospace;
+    --serif: "IBM Plex Serif", Georgia, serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #121614;
+      --surface: #1A1F1C;
+      --ink: #E7ECE5;
+      --ink-soft: #B4BEB6;
+      --muted: #859087;
+      --rule: #2C332E;
+      --rule-soft: #232925;
+      --live: #7CC79A;
+      --live-bg: #1E2E25;
+      --dead: #DE9670;
+      --dead-bg: #33241C;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground: #121614;
+    --surface: #1A1F1C;
+    --ink: #E7ECE5;
+    --ink-soft: #B4BEB6;
+    --muted: #859087;
+    --rule: #2C332E;
+    --rule-soft: #232925;
+    --live: #7CC79A;
+    --live-bg: #1E2E25;
+    --dead: #DE9670;
+    --dead-bg: #33241C;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 940px;
+    margin: 0 auto;
+    padding-inline: 20px;
+    padding-block: 56px 88px;
+  }
+
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0;
+  }
+
+  h1 {
+    margin: 14px 0 0;
+    font-size: clamp(30px, 6vw, 46px);
+    font-weight: 600;
+    line-height: 1.18;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  .lede {
+    font-family: var(--serif);
+    font-size: clamp(17px, 2.6vw, 20px);
+    line-height: 1.68;
+    color: var(--ink-soft);
+    max-width: 46ch;
+    margin: 18px 0 0;
+  }
+
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 22px;
+    margin: 26px 0 0;
+    font-family: var(--mono);
+    font-size: 13px;
+  }
+
+  .links a { color: var(--live); text-decoration-color: var(--rule); text-underline-offset: 3px; }
+  .links a:hover { text-decoration-color: currentColor; }
+  .links span { color: var(--muted); }
+
+  section {
+    display: grid;
+    grid-template-columns: 128px minmax(0, 1fr);
+    gap: 0 34px;
+    border-top: 1px solid var(--rule);
+    padding-block: 40px 4px;
+    margin-top: 44px;
+  }
+
+  .rail {
+    font-family: var(--mono);
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--muted);
+    padding-top: 6px;
+  }
+
+  .rail b {
+    display: block;
+    color: var(--ink);
+    font-weight: 500;
+    font-size: 13px;
+  }
+
+  h2 {
+    margin: 0 0 4px;
+    font-size: 21px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .body > p { margin: 14px 0 0; max-width: 64ch; }
+  .body > p:first-of-type { margin-top: 10px; }
+
+  code {
+    font-family: var(--mono);
+    font-size: 0.88em;
+    background: var(--rule-soft);
+    border-radius: 3px;
+    padding: 1px 5px;
+  }
+
+  ol.flow {
+    list-style: none;
+    counter-reset: step;
+    margin: 22px 0 0;
+    padding: 0;
+  }
+
+  ol.flow li {
+    counter-increment: step;
+    display: grid;
+    grid-template-columns: 26px minmax(0, 1fr);
+    gap: 14px;
+    padding: 13px 0;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+
+  ol.flow li::before {
+    content: counter(step);
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+    padding-top: 3px;
+  }
+
+  ol.flow strong { font-weight: 600; }
+  ol.flow small { display: block; color: var(--muted); font-size: 13.5px; line-height: 1.6; }
+
+  .scroller { overflow-x: auto; margin-top: 22px; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14.5px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  th {
+    text-align: left;
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 0 14px 9px 0;
+    border-bottom: 1px solid var(--rule);
+    white-space: nowrap;
+  }
+
+  td {
+    padding: 11px 14px 11px 0;
+    border-bottom: 1px solid var(--rule-soft);
+    vertical-align: top;
+  }
+
+  td:last-child, th:last-child { padding-right: 0; }
+  td.mono { font-family: var(--mono); font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
+  td.cat { white-space: nowrap; font-weight: 500; }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    padding: 3px 8px;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+
+  .tag.direct { background: var(--live-bg); color: var(--live); }
+  .tag.google { background: var(--rule-soft); color: var(--muted); }
+
+  .dot { width: 6px; height: 6px; border-radius: 50%; background: currentColor; flex: none; }
+
+  .example {
+    margin-top: 24px;
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    padding: 20px;
+  }
+
+  .example h3 {
+    margin: 0 0 14px;
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .headline {
+    font-size: 14.5px;
+    margin: 0;
+    padding: 7px 0;
+    border-bottom: 1px dashed var(--rule);
+    color: var(--ink-soft);
+  }
+
+  .headline mark { background: var(--live-bg); color: var(--live); padding: 1px 4px; font-weight: 500; }
+  .headline s { color: var(--muted); opacity: 0.55; }
+
+  .tally {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0 0;
+    font-family: var(--mono);
+    font-size: 12.5px;
+  }
+
+  .tally span {
+    background: var(--ground);
+    border: 1px solid var(--rule);
+    padding: 3px 9px;
+  }
+
+  .tally b { color: var(--live); font-weight: 500; }
+
+  .caveat {
+    margin: 16px 0 0;
+    padding-left: 14px;
+    border-left: 2px solid var(--dead);
+    color: var(--ink-soft);
+    font-size: 14.5px;
+    line-height: 1.65;
+    max-width: 64ch;
+  }
+
+  .caveat b { color: var(--dead); font-weight: 500; }
+
+  dl.files { margin: 22px 0 0; }
+
+  dl.files > div {
+    display: grid;
+    grid-template-columns: minmax(0, 250px) minmax(0, 1fr);
+    gap: 6px 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+
+  dl.files dt { font-family: var(--mono); font-size: 12.5px; color: var(--live); overflow-wrap: anywhere; }
+  dl.files dd { margin: 0; font-size: 14.5px; color: var(--ink-soft); }
+
+  footer {
+    margin-top: 52px;
+    padding-top: 22px;
+    border-top: 1px solid var(--rule);
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+  }
+
+  :focus-visible { outline: 2px solid var(--live); outline-offset: 2px; }
+
+  @media (max-width: 720px) {
+    section { grid-template-columns: minmax(0, 1fr); gap: 0; padding-block: 30px 4px; margin-top: 32px; }
+    .rail { padding: 0 0 12px; }
+    .rail b { display: inline; }
+    dl.files > div { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">mynews-2608 · 파이프라인 개요</p>
+    <h1>오늘의 트렌드 뉴스</h1>
+    <p class="lede">
+      10개 분야 16개 RSS 피드를 2시간마다 긁어 저장소에 커밋하고,
+      밤 9시에 분야별 헤드라인을 Discord로 보냅니다. 서버도 데이터베이스도 없습니다.
+    </p>
+    <p class="links">
+      <a href="https://mynews-2608.vercel.app">mynews-2608.vercel.app</a>
+      <a href="https://github.com/frontierall/mynews-2608">github.com/frontierall/mynews-2608</a>
+      <span>Discord · 매일뉴스브리핑</span>
+    </p>
+  </header>
+
+  <section>
+    <div class="rail">
+      <b>0 */2 * * *</b>
+      2시간마다<br>GitHub Actions
+    </div>
+    <div class="body">
+      <h2>수집</h2>
+      <p>
+        2시간마다 <code>scripts/collect-news.ts</code>가 돌고, 받아온 기사는 그날의
+        <code>data/news/YYYY-MM-DD.json</code>(KST 기준 날짜)에 병합됩니다.
+      </p>
+      <ol class="flow">
+        <li>
+          <div>
+            <strong>16개 피드를 동시에 요청</strong>
+            <small>타임아웃 15초. 실패한 피드는 로그만 남기고 건너뜁니다 — 한 곳이 죽어도 나머지는 그대로 수집됩니다.</small>
+          </div>
+        </li>
+        <li>
+          <div>
+            <strong>출처 이름 정리</strong>
+            <small>직접 지정한 피드는 <code>source</code> 값을 그대로 쓰고, Google News는 제목이 <code>헤드라인 - 매체명</code> 형태라 뒤쪽을 잘라 매체명으로 씁니다.</small>
+          </div>
+        </li>
+        <li>
+          <div>
+            <strong>중복 제거</strong>
+            <small>기사 링크의 SHA-1 앞 16자가 <code>id</code>. 같은 기사가 여러 피드에 걸려도 한 번만 저장됩니다.</small>
+          </div>
+        </li>
+        <li>
+          <div>
+            <strong>분야당 80건으로 자르기</strong>
+            <small>발행 시각 최신순으로 정렬한 뒤 상한을 넘는 오래된 기사를 버립니다. 하루 파일이 무한히 커지지 않게 하는 장치입니다.</small>
+          </div>
+        </li>
+        <li>
+          <div>
+            <strong>저장소에 커밋 · 푸시</strong>
+            <small>이 커밋이 다시 Vercel 재배포를 일으킵니다. 데이터 갱신과 배포가 한 줄로 이어집니다.</small>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">
+      <b>16 feeds</b>
+      10개 분야<br>src/lib/categories.ts
+    </div>
+    <div class="body">
+      <h2>지금 수집하는 곳</h2>
+      <p>
+        수집 대상을 바꾸는 곳은 <code>src/lib/categories.ts</code> 한 파일뿐입니다.
+        AI · IT · 경제 · 사회는 매체를 직접 골랐고, 나머지는 Google News 토픽 피드를 씁니다.
+        새 분야는 <code>CategoryKey</code> 한 줄과 <code>CATEGORIES</code> 항목 하나로 끝납니다 —
+        분야별 분기 코드가 없기 때문입니다.
+      </p>
+      <div class="scroller">
+        <table>
+          <thead>
+            <tr><th>분야</th><th>피드</th><th>소스</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="cat">🤖 AI</td>
+              <td>AI타임스 전체, 전자신문 <code>04046</code>, 전자신문 <code>04</code> AI·SW</td>
+              <td><span class="tag direct"><i class="dot"></i>직접</span></td>
+            </tr>
+            <tr>
+              <td class="cat">💻 IT</td>
+              <td>전자신문 <code>03</code> 통신, 한국경제 IT, 긱뉴스</td>
+              <td><span class="tag direct"><i class="dot"></i>직접</span></td>
+            </tr>
+            <tr>
+              <td class="cat">💰 경제</td>
+              <td>한국경제 경제 · 금융, 전자신문 <code>02</code> 경제</td>
+              <td><span class="tag direct"><i class="dot"></i>직접</span></td>
+            </tr>
+            <tr><td class="cat">🏛️ 정치</td><td class="mono">Google News · NATION</td><td><span class="tag google">매체 혼합</span></td></tr>
+            <tr>
+              <td class="cat">🚨 사회</td>
+              <td>한국경제 사회 — <strong>이 분야는 피드가 하나뿐</strong>입니다</td>
+              <td><span class="tag direct"><i class="dot"></i>직접</span></td>
+            </tr>
+            <tr><td class="cat">🌍 세계</td><td class="mono">Google News · WORLD</td><td><span class="tag google">매체 혼합</span></td></tr>
+            <tr><td class="cat">🔬 과학</td><td class="mono">Google News · SCIENCE</td><td><span class="tag google">매체 혼합</span></td></tr>
+            <tr><td class="cat">🏥 건강</td><td class="mono">Google News · HEALTH</td><td><span class="tag google">매체 혼합</span></td></tr>
+            <tr><td class="cat">⚽ 스포츠</td><td class="mono">Google News · SPORTS</td><td><span class="tag google">매체 혼합</span></td></tr>
+            <tr><td class="cat">🎬 연예</td><td class="mono">Google News · ENTERTAINMENT</td><td><span class="tag google">매체 혼합</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caveat">
+        <b>주의</b> 피드가 죽어도 워크플로우는 초록색으로 끝납니다. 어떤 분야가 조용히 비면
+        Actions 로그에서 <code>Failed to fetch</code>를 확인하세요. 새 피드를 넣기 전에는
+        <code>curl -sL "&lt;URL&gt;" | grep -o "&lt;item[ &gt;]" | wc -l</code>로 항목 수를 세어
+        살아 있는지 먼저 확인하면 됩니다.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">
+      <b>최근 2일</b>
+      상위 12개<br>src/lib/trending.ts
+    </div>
+    <div class="body">
+      <h2>급상승 키워드가 나오는 법</h2>
+      <p>
+        형태소 분석기 없이, 최근 2일치 <strong>제목의 단어 빈도</strong>만 셉니다.
+        문자·숫자만 남기고 공백으로 자른 뒤, 2글자 미만과 불용어(<code>속보</code>,
+        <code>단독</code>, <code>오늘</code>, <code>위해</code>, <code>했다</code> …)를 버립니다.
+      </p>
+      <div class="example">
+        <h3>제목 세 개를 세어 보면</h3>
+        <p class="headline"><s>[속보]</s> <mark>삼성전자</mark>, <mark>반도체</mark> 실적 발표</p>
+        <p class="headline"><mark>삼성전자</mark> <mark>반도체</mark> 라인 증설… <mark>삼성전자</mark> 주가는</p>
+        <p class="headline"><s>[단독]</s> 정부, <mark>반도체</mark> 지원안 확정</p>
+        <p class="tally">
+          <span>반도체 <b>3</b></span>
+          <span>삼성전자 <b>2</b></span>
+          <span>정부 <b>1</b> · 탈락</span>
+        </p>
+        <p class="caveat">
+          두 번째 제목에 <b>삼성전자가 두 번</b> 나오지만 점수는 <b>1점</b>입니다.
+          한 제목 안에서는 같은 단어를 한 번만 세기 때문에, 한 기사가 혼자서 순위를 밀어 올리지 못합니다.
+          2건 미만으로 등장한 단어는 아예 버려집니다.
+        </p>
+      </div>
+      <p>
+        형태소를 나누지 않으므로 <code>정부가</code>와 <code>정부는</code>은 서로 다른 단어로 셉니다.
+        여러 헤드라인에 반복되는 고유명사를 띄우기엔 충분하지만 정밀한 토픽 추출은 아닙니다.
+        가장 값싼 개선은 불용어 목록을 늘리거나 조사 제거 규칙을 넣는 것입니다.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">
+      <b>0 12 * * *</b>
+      매일 21:00 KST<br>embed 11개
+    </div>
+    <div class="body">
+      <h2>Discord 브리핑</h2>
+      <p>
+        하루가 끝날 무렵 그날 수집분을 읽어 급상승 키워드 embed 1개와 분야별 embed 10개를 만들고,
+        웹훅으로 Discord <strong>매일뉴스브리핑</strong> 채널에 올립니다.
+        각 분야 embed에는 최신 기사 제목 3건이 링크와 함께 들어갑니다.
+      </p>
+      <p class="caveat">
+        <b>AI 요약은 현재 꺼져 있습니다.</b> 스크립트에
+        <code>TODO: AI 카테고리 요약 재도입</code> 주석이 남아 있고, 워크플로우도
+        <code>ANTHROPIC_API_KEY</code>를 job에 넘기지 않습니다. 지금 나가는 것은 요약이 아니라
+        <b>제목 목록</b>입니다.
+      </p>
+      <p class="caveat">
+        <b>embed 10개 제한</b> Discord는 메시지 하나에 embed를 10개까지만 받습니다.
+        분야가 10개가 되면서 키워드까지 11개가 되어, 브리핑은 10개씩 끊어 여러 메시지로 나갑니다.
+        분야를 더 늘려도 뒤쪽이 조용히 잘리지 않습니다.
+      </p>
+      <div class="scroller">
+        <table>
+          <thead><tr><th>Secret</th><th>쓰이는 곳</th></tr></thead>
+          <tbody>
+            <tr><td class="mono">DISCORD_WEBHOOK_URL</td><td>discord-digest 워크플로우 · 사용 중</td></tr>
+            <tr><td class="mono">ANTHROPIC_API_KEY</td><td>등록돼 있으나 현재 아무도 쓰지 않음</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">
+      <b>Vercel</b>
+      push마다<br>자동 재배포
+    </div>
+    <div class="body">
+      <h2>배포와 저장</h2>
+      <p>
+        웹은 Vercel, 수집과 전송은 GitHub Actions, 데이터는 저장소 자체입니다.
+        운영 중인 서버가 한 대도 없고 데이터베이스도 없습니다.
+        대신 저장소가 하루치 JSON만큼 계속 커집니다 — 분야 10개 × 최대 80건 기준으로
+        하루 1MB 안팎이라 당분간은 신경 쓰지 않아도 됩니다.
+      </p>
+      <p>
+        웹 페이지는 최근 <strong>2일치</strong>를 분야별로 보여주고, 검색 ·
+        즐겨찾기(브라우저에만 저장) · 급상승 키워드를 함께 제공합니다.
+        서버 컴포넌트가 JSON을 직접 읽고 <code>revalidate = 3600</code>으로 한 시간마다 갱신됩니다.
+      </p>
+      <dl class="files">
+        <div><dt>src/lib/categories.ts</dt><dd>분야와 피드 목록 — 수집 대상을 바꾸는 유일한 파일</dd></div>
+        <div><dt>scripts/collect-news.ts</dt><dd>수집 · 중복 제거 · 상한 적용 후 JSON 저장</dd></div>
+        <div><dt>src/lib/newsStore.ts</dt><dd>날짜별 JSON 읽기/쓰기, 최근 N일 병합</dd></div>
+        <div><dt>src/lib/trending.ts</dt><dd>급상승 키워드 추출</dd></div>
+        <div><dt>src/app/page.tsx</dt><dd>서버 컴포넌트. 최근 2일치를 읽어 렌더</dd></div>
+        <div><dt>src/components/NewsExplorer.tsx</dt><dd>분야 필터 · 검색 · 즐겨찾기</dd></div>
+        <div><dt>scripts/send-discord-digest.ts</dt><dd>분야별 헤드라인을 embed로 묶어 웹훅 전송</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <footer>
+    <span>frontierall/mynews-2608</span>
+    <span>data/news/YYYY-MM-DD.json · KST</span>
+    <span>문서 갱신 2026-09-10</span>
+  </footer>
+
+</div>

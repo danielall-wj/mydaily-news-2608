@@ -6,14 +6,24 @@ import type { Article } from "../src/lib/types";
 
 const MAX_TITLES_PER_CATEGORY = 3;
 const MAX_TITLE_LENGTH = 60;
+// Keys must match CategoryKey exactly; an unmatched key silently falls back to grey.
 const CATEGORY_COLORS: Record<string, number> = {
-  politics: 0x6b7280,
+  ai: 0x8b5cf6,
+  it: 0x3b82f6,
   business: 0xf59e0b,
-  tech: 0x3b82f6,
+  politics: 0x6b7280,
+  society: 0xdc2626,
   world: 0x10b981,
+  science: 0x0ea5e9,
+  health: 0x14b8a6,
   sports: 0xef4444,
   entertainment: 0xec4899,
 };
+
+// Discord accepts at most 10 embeds per webhook message. With 10 categories plus the
+// trending embed we now exceed that, so the digest goes out as several messages
+// instead of silently dropping the tail categories.
+const MAX_EMBEDS_PER_MESSAGE = 10;
 
 function truncateTitle(title: string): string {
   return title.length > MAX_TITLE_LENGTH ? `${title.slice(0, MAX_TITLE_LENGTH)}…` : title;
@@ -73,10 +83,14 @@ async function main() {
     });
   }
 
-  await sendToDiscord(webhookUrl, {
-    content: `📰 **${today} 오늘의 뉴스 브리핑**`,
-    embeds: embeds.slice(0, 10),
-  });
+  for (let i = 0; i < embeds.length; i += MAX_EMBEDS_PER_MESSAGE) {
+    const chunk = embeds.slice(i, i + MAX_EMBEDS_PER_MESSAGE);
+    await sendToDiscord(webhookUrl, {
+      // Only the first message carries the heading; the rest continue it.
+      content: i === 0 ? `📰 **${today} 오늘의 뉴스 브리핑**` : undefined,
+      embeds: chunk,
+    });
+  }
 
   console.log(`[send-discord-digest] Sent digest for ${today} with ${embeds.length} embeds.`);
 }
