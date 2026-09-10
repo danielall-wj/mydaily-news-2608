@@ -3,8 +3,9 @@
 분야별 RSS 뉴스를 2시간마다 자동으로 모아 웹 페이지로 보여주고, 하루 한 번 분야별 헤드라인을
 Discord로 보내주는 개인용 뉴스 브리핑 서비스입니다.
 
-- **웹 페이지**: https://mynews-2608.vercel.app
-- **저장소**: https://github.com/frontierall/mydaily-news-2608
+- **웹 페이지**: https://mynews-2608-frontieralls-projects.vercel.app
+  (Vercel Authentication이 켜져 있어 로그인해야 열립니다 — 아래 6절 참고)
+- **저장소**: https://github.com/frontierall/mydaily-news-2608 (private)
 - **Discord**: 매일 21:00 KST, **매일뉴스브리핑** 채널로 분야별 브리핑 전송
 
 ---
@@ -111,12 +112,24 @@ embed를 만들고 웹훅으로 보냅니다. 각 분야 embed에는 **최신 �
 
 | 대상 | 방식 |
 | --- | --- |
-| 웹 | **Vercel** — https://mynews-2608.vercel.app . GitHub 연동으로 `main`에 push할 때마다 자동 재배포 |
+| 웹 | **Vercel** — 프로젝트 `mynews-2608`. GitHub 연동으로 `main`에 push할 때마다 자동 재배포 |
 | 수집 · 전송 | **GitHub Actions** — 별도 서버 없음. 수집 결과는 Actions가 저장소에 직접 커밋 |
 | 데이터 | **저장소 자체** — `data/news/*.json`. 별도 DB 없음 |
 
 수집 워크플로우가 커밋을 밀어 넣으면 그게 다시 Vercel 재배포를 일으켜 페이지가 갱신됩니다.
 즉 **2시간마다 데이터 커밋 → 자동 배포**가 한 줄로 이어집니다.
+
+### 주소 정리 (2026-09-10 확인)
+
+| 주소 | 상태 |
+| --- | --- |
+| `mynews-2608-frontieralls-projects.vercel.app` | 배포 성공. 단 **Vercel Authentication**이 켜져 있어 로그인 없이는 302로 튕깁니다 |
+| `mynews-2608.vercel.app` | **배정돼 있지 않음** — `DEPLOYMENT_NOT_FOUND`. 예전 문서에 적혀 있던 주소입니다 |
+
+즉 지금 이 사이트는 **공개 상태가 아닙니다.** 아무나 볼 수 있게 하려면 Vercel 프로젝트에서
+Deployment Protection을 끄고, 원하면 짧은 별칭(`mynews-2608.vercel.app`)을 프로덕션에 붙이면 됩니다.
+저장소 이름은 `mynews-2608` → `mydaily-news-2608`로 바뀌었지만 Vercel 프로젝트 이름은 그대로라
+둘이 어긋나 있는 상태입니다.
 
 ### Secrets
 
@@ -141,11 +154,23 @@ embed를 만들고 웹훅으로 보냅니다. 각 분야 embed에는 **최신 �
 ```bash
 npm install
 npm run dev              # 웹 페이지 확인 (http://localhost:3000)
-npm run collect:news     # 수동으로 뉴스 수집
-npm run digest:discord   # 수동으로 Discord 전송 (.env 필요)
+npm run collect:news     # 수동으로 뉴스 수집 (환경변수 불필요)
+npm run digest:discord   # 수동으로 Discord 전송 (DISCORD_WEBHOOK_URL 필요)
 ```
 
-`.env.example`을 `.env`로 복사하고 값을 채워주세요.
+수집은 공개 RSS만 읽으므로 아무 설정 없이 바로 돌아갑니다.
+Discord 전송만 웹훅 주소가 필요합니다.
+
+```bash
+cp .env.example .env     # DISCORD_WEBHOOK_URL 을 채워 넣으세요
+```
+
+`digest:discord`는 `--env-file-if-exists=.env`로 실행되므로 `.env`가 있으면 자동으로 읽고,
+없으면 그냥 시스템 환경변수를 씁니다. `.env`는 `.gitignore`에 걸려 커밋되지 않습니다
+(`.env.example`만 예외로 추적합니다).
+
+> **주의** `digest:discord`는 진짜 Discord 채널에 글을 올립니다. 테스트할 때는 별도 채널의
+> 웹훅을 쓰세요.
 
 ## 9. 수집 대상 바꾸기
 
