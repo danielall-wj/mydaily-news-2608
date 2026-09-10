@@ -4,7 +4,7 @@
 Discord로 보내주는 개인용 뉴스 브리핑 서비스입니다.
 
 - **웹 페이지**: https://mynews-2608.vercel.app
-- **저장소**: https://github.com/frontierall/mynews-2608
+- **저장소**: https://github.com/frontierall/mydaily-news-2608
 - **Discord**: 매일 21:00 KST, **매일뉴스브리핑** 채널로 분야별 브리핑 전송
 
 ---
