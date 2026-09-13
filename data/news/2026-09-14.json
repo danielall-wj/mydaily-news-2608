@@ -1,5 +1,131 @@
 [
   {
+    "id": "1a69ff5cb741db36",
+    "title": "엔지니어링 매니저의 네 가지 핵심 책임 영역",
+    "link": "https://news.hada.io/topic?id=33656",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:52:05.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "4c41d9bbe1d3fb8f",
+    "title": "연결을 끊지 않는 Lakebase Postgres의 오토스케일링",
+    "link": "https://news.hada.io/topic?id=33655",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:50:29.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "0c1216c2842dde39",
+    "title": "Wasmi 2.0 - 가장 빠른 Wasm 인터프리터를 만드는 기술",
+    "link": "https://news.hada.io/topic?id=33654",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:46:52.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "54f6ce1ab373508a",
+    "title": "장윤기 사건 '봐주기 논란' 경찰관들 오늘 첫 재판",
+    "link": "https://www.hankyung.com/article/2026091417057",
+    "source": "한국경제",
+    "category": "society",
+    "pubDate": "2026-09-13T21:38:07.000Z",
+    "collectedAt": "2026-09-13T22:02:10.354Z"
+  },
+  {
+    "id": "cd8e67334866694e",
+    "title": "저커버그의 이메일: “케임브리지 애널리티카” (2017)",
+    "link": "https://news.hada.io/topic?id=33653",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:37:13.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "22f06b5d75ba1a6c",
+    "title": "크게 성공하거나 망하거나: 벤처 시장에서 사라지는 중간 지대",
+    "link": "https://news.hada.io/topic?id=33652",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:36:38.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "99444c621785e2be",
+    "title": "바이브 코딩으로 만든 대시보드가 형편없어 보이는 10가지 이유",
+    "link": "https://news.hada.io/topic?id=33651",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:36:17.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "5c14b0db12e96723",
+    "title": "전 세계적 공급 부족으로 Costco가 엔진오일 구매량 제한에 나섬",
+    "link": "https://news.hada.io/topic?id=33650",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T21:34:13.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "9fc13bdf224a7b56",
+    "title": "Windows에서 AMD GPU로 CUDA 실행하기",
+    "link": "https://news.hada.io/topic?id=33649",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T20:55:19.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "74bcb8df78f5b3d0",
+    "title": "유럽의 ‘덜 쓰기’는 인정받는 것보다 더 큰 역할을 하고 있음",
+    "link": "https://news.hada.io/topic?id=33648",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T20:52:19.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "e16dd4815797f569",
+    "title": "미 세관 감독관, 국토안보부 PC에서 하드웨어를 훔친 혐의로 적발",
+    "link": "https://news.hada.io/topic?id=33647",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T20:49:19.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "3d90018cf127f6d3",
+    "title": "그네를 타던 아이를 체포하는 데 사용된 Flock 카메라",
+    "link": "https://news.hada.io/topic?id=33646",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T20:46:19.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "7d7a39764cd7cc51",
+    "title": "Base84도 파일명에 쓰일 만함",
+    "link": "https://news.hada.io/topic?id=33645",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T20:08:19.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
+    "id": "3afb34ecefbcf69f",
+    "title": "프로그래밍 언어의 몇 가지 좋은 아이디어",
+    "link": "https://news.hada.io/topic?id=33644",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-09-13T20:05:19.000Z",
+    "collectedAt": "2026-09-13T22:02:10.349Z"
+  },
+  {
     "id": "7bcbb5e03c79c7b7",
     "title": "David Sacks: OpenAI와 Anthropic은 최전선 모델의 발전 속도를 조절하는 데 규제가 필요하지 않다",
     "link": "https://news.hada.io/topic?id=33643",
@@ -43,6 +169,24 @@
     "category": "world",
     "pubDate": "2026-09-13T19:30:00.000Z",
     "collectedAt": "2026-09-13T19:57:33.680Z"
+  },
+  {
+    "id": "5c33753bc379a38c",
+    "title": "[민선 9기, 새 4년을 묻다]이기형 김포시장, 97개 공약 재정비…첨단산업 육성·교통 동시 확충",
+    "link": "https://www.etnews.com/20260913000088",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-09-13T19:00:00.000Z",
+    "collectedAt": "2026-09-13T22:02:10.346Z"
+  },
+  {
+    "id": "f916812d7679b246",
+    "title": "[민선 9기, 새 4년을 묻다]이상일 용인시장 “반도체·교통망 속도…150만 도시 기반 구축”",
+    "link": "https://www.etnews.com/20260914000001",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-09-13T19:00:00.000Z",
+    "collectedAt": "2026-09-13T22:02:10.346Z"
   },
   {
     "id": "9ce2677db4bedb58",
@@ -675,15 +819,6 @@
     "collectedAt": "2026-09-13T17:07:32.285Z"
   },
   {
-    "id": "f3783b16e01c1604",
-    "title": "U-20 여자 축구대표팀, 극적인 월드컵 16강행!",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRekg5bmlUSmVkUFlXVUctZGNuaDdTTDFpSW12b1F2aEx3ZEJZSWpSdHZOUk5Rejg3MjlIQjFTbWI1Qzk2V2k3YjhaQllDeG9UUVpyT1pMSnlkNHM?oc=5",
-    "source": "KBS 뉴스",
-    "category": "sports",
-    "pubDate": "2026-09-13T12:26:00.000Z",
-    "collectedAt": "2026-09-13T17:07:32.285Z"
-  },
-  {
     "id": "81448be360fe9078",
     "title": "'현빈♥'손예진, 아들 자랑 팔불출 맞네..\"이렇게 생기면 배우 안 하기도 힘들어”",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oREJjZmxVZ3ZxanEtX1FjcHRJdV8wLS1TU0JTMFVQMWJaTkprX0R5OHdZX0E4eDhaTWFWdWtVd29rM0V4OWZsZjZGYmhaX2RtN2xKaQ?oc=5",
@@ -691,6 +826,15 @@
     "category": "entertainment",
     "pubDate": "2026-09-13T12:26:00.000Z",
     "collectedAt": "2026-09-13T19:57:33.682Z"
+  },
+  {
+    "id": "f3783b16e01c1604",
+    "title": "U-20 여자 축구대표팀, 극적인 월드컵 16강행!",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRekg5bmlUSmVkUFlXVUctZGNuaDdTTDFpSW12b1F2aEx3ZEJZSWpSdHZOUk5Rejg3MjlIQjFTbWI1Qzk2V2k3YjhaQllDeG9UUVpyT1pMSnlkNHM?oc=5",
+    "source": "KBS 뉴스",
+    "category": "sports",
+    "pubDate": "2026-09-13T12:26:00.000Z",
+    "collectedAt": "2026-09-13T17:07:32.285Z"
   },
   {
     "id": "7ac4023c30e90b81",
@@ -846,20 +990,20 @@
     "collectedAt": "2026-09-13T17:07:32.285Z"
   },
   {
-    "id": "27508d118d328302",
-    "title": "[사진]이강철 감독과 승리 기뻐하는 황재균",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WU1FJOTZFVlFmUU40WnNwRlM4LUl4M0phR3BhQXhyc183cndqeGFIS1BkbTFtdjNORGxmcFkwZFhwMlBEZDFWXzFZbzQxVEt3Wi1V?oc=5",
-    "source": "OSEN",
-    "category": "sports",
-    "pubDate": "2026-09-13T11:07:00.000Z",
-    "collectedAt": "2026-09-13T17:07:32.285Z"
-  },
-  {
     "id": "3c3b6b099fb53b5d",
     "title": "'런닝맨' 지예은, 혼전임신설 부인 \"억울해…신혼 즐길 것\"",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lbXlHVjhacEthU2g1NHlhLTllcWxFcHJPTHJfSHI3RlFiSHpDbkxfOVhtZG5sMDBzbU9nTnR0UjVYRDJmTVAtNzYyTzZ3WS1LR21icnFIaVhKOW4zMU92Tw?oc=5",
     "source": "iMBC 연예",
     "category": "entertainment",
+    "pubDate": "2026-09-13T11:07:00.000Z",
+    "collectedAt": "2026-09-13T17:07:32.285Z"
+  },
+  {
+    "id": "27508d118d328302",
+    "title": "[사진]이강철 감독과 승리 기뻐하는 황재균",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WU1FJOTZFVlFmUU40WnNwRlM4LUl4M0phR3BhQXhyc183cndqeGFIS1BkbTFtdjNORGxmcFkwZFhwMlBEZDFWXzFZbzQxVEt3Wi1V?oc=5",
+    "source": "OSEN",
+    "category": "sports",
     "pubDate": "2026-09-13T11:07:00.000Z",
     "collectedAt": "2026-09-13T17:07:32.285Z"
   },
@@ -3888,24 +4032,6 @@
     "collectedAt": "2026-09-13T17:07:32.270Z"
   },
   {
-    "id": "2fbe42cfd39de45f",
-    "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
-    "link": "https://news.hada.io/topic?id=33587",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T16:44:18.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
-  },
-  {
-    "id": "0d570ae7e195115e",
-    "title": "다리오 아모데이: 최첨단 AI의 발전 속도를 늦춰야 한다",
-    "link": "https://news.hada.io/topic?id=33586",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T16:41:18.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
-  },
-  {
     "id": "95cb85bf1ba65e71",
     "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215190",
@@ -3933,15 +4059,6 @@
     "collectedAt": "2026-09-13T17:07:32.285Z"
   },
   {
-    "id": "ef205e51234ce6f8",
-    "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
-    "link": "https://news.hada.io/topic?id=33585",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T15:37:59.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
-  },
-  {
     "id": "1a08dc8c4cd1cc61",
     "title": "[전문] '미인대회 출신' 배우 이지연, '나솔' 21기 영철과 결혼..직접 밝혔다",
     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZYTZ3eV9JaW9kOHFJa3JLenJGdE5rdnFQRmtVeXhtRHRMS0NXMVg0Y2c0Q0xZQ1R6NDVKRFNvX1Nya1V5V0E?oc=5",
@@ -3949,15 +4066,6 @@
     "category": "entertainment",
     "pubDate": "2026-09-12T15:37:09.000Z",
     "collectedAt": "2026-09-13T17:07:32.285Z"
-  },
-  {
-    "id": "b67d645ecee4aecb",
-    "title": "Matt Mullenweg, 축출 후 Automattic 직원들에게 Slack으로 경영권 복귀 알려",
-    "link": "https://news.hada.io/topic?id=33584",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T15:34:59.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
   },
   {
     "id": "9c5ce2e568ebc8f9",
@@ -4014,15 +4122,6 @@
     "collectedAt": "2026-09-13T17:07:32.285Z"
   },
   {
-    "id": "151993db2b1a1d88",
-    "title": "Apple Neural Engine 역공학 하기: LLM의 병목은 연산보다 데이터 이동",
-    "link": "https://news.hada.io/topic?id=33583",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T14:35:47.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
-  },
-  {
     "id": "fd9e376921371525",
     "title": "인천서 11톤 트럭이 앞차 들이받아 10대 연쇄추돌‥5명 부상",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUkU1eHdBZjEzZW5ENl9sRXlLc0NKdnVlczhHSkk1ak1RcHhrcWp5QndndF9ER3lJTVNfdEd0QmVPM2p0WjJLamU5NHZaa1A4QlNXZ3NqV2ItMEVELTVZRmtnaUx5cmEyeHdrYm9fVERmbElWdldv0gF3QVVfeXFMTzFnUkhHbTNfMTAzZ1FsQmwzSjV2TTFMVjBFaERRYy1BMGNwaUYyVk5ZUTVYR2M0ZTV0Zk9PMXhBcTlJRDZramp6bGRvZ0lYX2ZBc0ZnSm1XdVo0Y09NRW1kck43V1ZxRmxNcXg1TGpBWG00LUpjSU0?oc=5",
@@ -4048,15 +4147,6 @@
     "category": "entertainment",
     "pubDate": "2026-09-12T13:56:48.000Z",
     "collectedAt": "2026-09-13T19:57:33.682Z"
-  },
-  {
-    "id": "c950602d74bf026e",
-    "title": "젠장, 그래도 만들자",
-    "link": "https://news.hada.io/topic?id=33582",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T13:33:21.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
   },
   {
     "id": "6f34f9e2730d6ff5",
@@ -4167,15 +4257,6 @@
     "collectedAt": "2026-09-13T17:07:32.270Z"
   },
   {
-    "id": "876b084ae2ac72dd",
-    "title": "Litelm - 비대함을 덜어낸 LiteLLM",
-    "link": "https://news.hada.io/topic?id=33580",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T11:31:40.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
-  },
-  {
     "id": "bd1ee57389bc944a",
     "title": "\"尹도 감히 못 했는데 李에 배신감\"…시민단체 540곳 '분노'",
     "link": "https://www.hankyung.com/article/2026091204437",
@@ -4219,15 +4300,6 @@
     "category": "ai",
     "pubDate": "2026-09-12T10:33:50.000Z",
     "collectedAt": "2026-09-13T17:07:32.270Z"
-  },
-  {
-    "id": "39181f17d1ec9091",
-    "title": "Λ Snap - 어린이와 성인 모두 친근하게 접근할 수 있는 컴퓨터 과학 학습용 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=33579",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T10:32:53.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
   },
   {
     "id": "aaa6ff7215f104b4",
@@ -4318,15 +4390,6 @@
     "category": "ai",
     "pubDate": "2026-09-12T09:35:00.000Z",
     "collectedAt": "2026-09-13T17:07:32.270Z"
-  },
-  {
-    "id": "f4a24f1461025634",
-    "title": "Navier-Stokes 관련 발표",
-    "link": "https://news.hada.io/topic?id=33578",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-09-12T09:32:23.000Z",
-    "collectedAt": "2026-09-13T17:07:32.281Z"
   },
   {
     "id": "c89f12998b1d3663",
@@ -4707,15 +4770,6 @@
     "collectedAt": "2026-09-13T17:07:32.279Z"
   },
   {
-    "id": "4dd535b1b5b0033c",
-    "title": "[ET시선]AI시대, 육·해·공 통신망 연결 전략이 필요하다",
-    "link": "https://www.etnews.com/20260911000209",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-09-12T03:00:00.000Z",
-    "collectedAt": "2026-09-13T17:07:32.280Z"
-  },
-  {
     "id": "d1f9786274f96a56",
     "title": "정형돈 \"그 정도면 애들 학교 보내지 마세요\"…일침 날린 이유",
     "link": "https://www.hankyung.com/article/2026091201997",
@@ -4732,15 +4786,6 @@
     "category": "world",
     "pubDate": "2026-09-12T02:21:50.000Z",
     "collectedAt": "2026-09-13T17:07:32.283Z"
-  },
-  {
-    "id": "00b2eafcdf28e97f",
-    "title": "[부음] 서민우(전 KT 상무)씨 모친상",
-    "link": "https://www.etnews.com/20260912000009",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-09-12T01:43:13.000Z",
-    "collectedAt": "2026-09-13T17:07:32.280Z"
   },
   {
     "id": "9c38d276c6252fa8",
@@ -4786,15 +4831,6 @@
     "category": "politics",
     "pubDate": "2026-09-12T01:04:00.000Z",
     "collectedAt": "2026-09-13T17:07:32.282Z"
-  },
-  {
-    "id": "fe7d4a87503c850f",
-    "title": "\"10년 안에 인류 멸종 가능\" AI는 왜 제동없는 전차가 됐나[김인엽의 AI 프런티어]",
-    "link": "https://www.hankyung.com/article/202609119432i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-09-12T01:00:03.000Z",
-    "collectedAt": "2026-09-13T17:07:32.280Z"
   },
   {
     "id": "16d6b732eddaa877",
@@ -5011,15 +5047,6 @@
     "category": "health",
     "pubDate": "2026-09-11T14:38:34.000Z",
     "collectedAt": "2026-09-13T19:57:33.681Z"
-  },
-  {
-    "id": "807b94ee2d669de6",
-    "title": "SK바이오팜, 1조 신약임상 제동…\"11월께 FDA 보류 해제될 것\"",
-    "link": "https://www.hankyung.com/article/2026091196811",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-09-11T09:41:10.000Z",
-    "collectedAt": "2026-09-13T17:07:32.280Z"
   },
   {
     "id": "5bddbdc4d17d12cd",
@@ -5301,15 +5328,6 @@
     "collectedAt": "2026-09-13T17:07:32.284Z"
   },
   {
-    "id": "094624364ae43914",
-    "title": "SW공제조합, '제2회 스타트업 밋업데이' 성료...아스트라비전·아날로그AI 장관상",
-    "link": "https://www.etnews.com/20260911000087",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-09-11T01:12:44.000Z",
-    "collectedAt": "2026-09-13T17:07:32.279Z"
-  },
-  {
     "id": "db8a9c7df495763e",
     "title": "강 타고 바다 가는 미세플라스틱 96% ‘개발도상국’에 쏠렸다",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvREVsRWl4QlcwQnc5ODNMNGxmLXo4SkZsa3RZVHlVaDdqS3JXLWNCNmlVTkdoUnFLZ2VKREFEN1FRWm9vamdJei1sTVR4Z2pNdFQ5b0FXZHN2NVl2N0hrMVF1Rk1oLWFSYkozeXUxa01Vdw?oc=5",
@@ -5317,15 +5335,6 @@
     "category": "science",
     "pubDate": "2026-09-11T01:05:00.000Z",
     "collectedAt": "2026-09-13T17:07:32.284Z"
-  },
-  {
-    "id": "a7776fe9a27b8dfe",
-    "title": "위즈코어, 베트남서 설계부터 생산까지 잇는 '제조 DX' 기술 선봬",
-    "link": "https://www.etnews.com/20260911000076",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-09-11T00:58:46.000Z",
-    "collectedAt": "2026-09-13T17:07:32.279Z"
   },
   {
     "id": "9d142611e46f3913",
