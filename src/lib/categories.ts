@@ -33,7 +33,6 @@ export const CATEGORIES: CategoryConfig[] = [
     feeds: [
       { url: "https://www.aitimes.com/rss/allArticle.xml", source: "AI타임스" },
       { url: "http://rss.etnews.com/04046.xml", source: "전자신문" },
-      { url: "http://rss.etnews.com/04.xml", source: "전자신문" },
     ],
   },
   {
