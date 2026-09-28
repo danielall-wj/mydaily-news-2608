@@ -3,7 +3,10 @@ export type CategoryKey =
   | "it"
   | "business"
   | "politics"
+  | "society"
   | "world"
+  | "science"
+  | "health"
   | "sports"
   | "entertainment";
 
@@ -56,7 +59,17 @@ export const CATEGORIES: CategoryConfig[] = [
     ],
   },
   { key: "politics", label: "정치", emoji: "🏛️", feeds: [googleNewsTopic("NATION")] },
+  {
+    key: "society",
+    label: "사회",
+    emoji: "🚨",
+    // Single direct feed — no Google News topic covers Korean 사회 cleanly. If this one
+    // goes quiet the whole category empties, so check it first when 사회 looks stale.
+    feeds: [{ url: "https://www.hankyung.com/feed/society", source: "한국경제" }],
+  },
   { key: "world", label: "세계", emoji: "🌍", feeds: [googleNewsTopic("WORLD")] },
+  { key: "science", label: "과학", emoji: "🔬", feeds: [googleNewsTopic("SCIENCE")] },
+  { key: "health", label: "건강", emoji: "🏥", feeds: [googleNewsTopic("HEALTH")] },
   { key: "sports", label: "스포츠", emoji: "⚽", feeds: [googleNewsTopic("SPORTS")] },
   { key: "entertainment", label: "연예", emoji: "🎬", feeds: [googleNewsTopic("ENTERTAINMENT")] },
 ];

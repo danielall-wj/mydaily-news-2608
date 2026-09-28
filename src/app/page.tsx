@@ -28,6 +28,19 @@ export default async function Home() {
       </header>
 
       <NewsExplorer categories={CATEGORIES} articles={articles} trending={trending} />
+
+      <footer className="border-t border-neutral-200 bg-white dark:border-neutral-800 dark:bg-neutral-900">
+        <div className="mx-auto max-w-5xl px-6 py-6 text-sm text-neutral-500 dark:text-neutral-400">
+          <p>
+            <span aria-hidden="true">💬</span> 이 뉴스는 매일 밤 9시(KST) AI 요약과 함께 Discord{" "}
+            <strong className="font-semibold text-neutral-700 dark:text-neutral-200">매일뉴스브리핑</strong>{" "}
+            채널로도 전달됩니다.
+          </p>
+          <p className="mt-1">
+            기사 수집은 2시간마다 자동으로 이뤄지며, 이 페이지에는 최근 2일치가 표시됩니다.
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }
