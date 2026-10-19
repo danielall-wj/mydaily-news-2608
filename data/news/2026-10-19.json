@@ -1,5 +1,194 @@
 [
   {
+    "id": "213fc1fb261fc4cf",
+    "title": "Hybrid Reasoning Agents: 잠재 공간에서 사고하고 텍스트로 행동하는 LLM 에이전트",
+    "link": "https://news.hada.io/topic?id=35602",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-10-18T23:32:17.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "dd4cf32aca1da0c1",
+    "title": "\"아이폰 듀오 사전예약 흥행에 부품 추가 발주 기대\"-메리츠",
+    "link": "https://www.hankyung.com/article/2026101994076",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:15:49.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "80083efa73bef5f1",
+    "title": "\"LIG D&A, 3분기 실적 예상 밑돌고 4분기도 비용 부담 우려…목표가↓\"-대신",
+    "link": "https://www.hankyung.com/article/2026101994386",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:12:01.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "52eb86e6e018e216",
+    "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성",
+    "link": "https://www.hankyung.com/article/202610199367i",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:03:20.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "6631636f4e0321bc",
+    "title": "혼자 만든 웹 MMORPG에 사람이 10배 몰리자 벌어진 일",
+    "link": "https://news.hada.io/topic?id=35601",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-10-18T23:01:17.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "e16ee302cfb8e729",
+    "title": "\"동아에스티, 시장이 원하는 성장 모멘텀 필요…목표가↓\"-키움",
+    "link": "https://www.hankyung.com/article/2026101993936",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:01:16.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "4d5a303bc4efc7d7",
+    "title": "\"코스피 급락은 반도체 쏠림 때문…편중 위험 줄여야\"-유진",
+    "link": "https://www.hankyung.com/article/2026101993526",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:00:34.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "3efb478f17122a8f",
+    "title": "강남 VIP 사모님들 홀렸다…백화점 라운지 탄산수의 반전 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610103353i",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:00:08.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "ca3deca9b67c60a8",
+    "title": "\"한국 없인 안돼\"…체코 SMR '독자 수주' 대박낸 K원전 밸류체인 [김리안의 에네르기파WAR]",
+    "link": "https://www.hankyung.com/article/202610154699i",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T23:00:03.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "f34834ec4f17728d",
+    "title": "금속산업대전2026, AI 첨단제조의 산업현장 적용을 조명한다",
+    "link": "https://www.etnews.com/20261015000340",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-10-18T23:00:00.000Z",
+    "collectedAt": "2026-10-18T23:57:33.086Z"
+  },
+  {
+    "id": "07da5f74507e00b9",
+    "title": "\"코스피 하단 5150까지 열어둬야…메타 실적이 분수령\"",
+    "link": "https://www.hankyung.com/article/2026101993566",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:53:20.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "4fdbea47304a19f0",
+    "title": "Fed 금리인상 우려 줄었는데…금값은 유가에 발목",
+    "link": "https://www.hankyung.com/article/202610199339i",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:47:50.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "c4c3313944b39b01",
+    "title": "\"백화점, 자산효과 약화 이후 새로운 소비 모멘텀 필요\"-LS",
+    "link": "https://www.hankyung.com/article/2026101993186",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:46:44.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "3e2d1636ee2995fa",
+    "title": "美 코어위브, 中 딥시크…글로벌 악재에 시험대 오른 韓 증시 [오늘 아침, 당신이 알아야 할 7가지]",
+    "link": "https://www.hankyung.com/article/202610199299i",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:40:43.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "d3b0320e2422460c",
+    "title": "Anthropic의 고용은 어떻게 변하고 있는가",
+    "link": "https://news.hada.io/topic?id=35600",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-10-18T22:38:26.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "e3888fa7a861c137",
+    "title": "Tesla, Roadster 예약자에게 차량을 인도할 수 있을지조차 “보장 불가”",
+    "link": "https://news.hada.io/topic?id=35599",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-10-18T22:35:26.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "c6b339e19b5490d1",
+    "title": "\"두산, 전자사업 고부가 제품 확대에 수익성↑…목표가↑\"-대신",
+    "link": "https://www.hankyung.com/article/2026101993206",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:29:05.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
+  },
+  {
+    "id": "49e300eff5a76a49",
+    "title": "국민연금 주식 100일 새 182조 증발…삼전닉스 131조 물렸다",
+    "link": "https://www.hankyung.com/article/2026101993047",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:23:35.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "47e0e347acbba490",
+    "title": "세계 최초 밀크초콜릿 만든 그 브랜드…이마트에서 만난다",
+    "link": "https://www.hankyung.com/article/2026101992767",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T22:06:29.000Z",
+    "collectedAt": "2026-10-18T23:57:33.084Z"
+  },
+  {
+    "id": "7faac350edf16da7",
+    "title": "뉴엔AI, 'K-뷰티엑스포'서 인종·피부별 'AI 페르소나 정밀 분석' 솔루션 공개",
+    "link": "https://www.etnews.com/20261016000345",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-10-18T22:01:00.000Z",
+    "collectedAt": "2026-10-18T23:57:33.082Z"
+  },
+  {
+    "id": "17a3ca095180a58e",
+    "title": "승객이 두고 내린 지갑 가져간 객실장…법원 \"해임 처분 정당\"",
+    "link": "https://www.hankyung.com/article/202610188612i",
+    "source": "한국경제",
+    "category": "society",
+    "pubDate": "2026-10-18T22:00:01.000Z",
+    "collectedAt": "2026-10-18T23:57:33.087Z"
+  },
+  {
     "id": "ea76572d1880cbaf",
     "title": "젤렌스키 “미국이 항복 압박”…트럼프 “러시아 제재하면 평화협상 깨져”",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HdHBXRUJxdFF2TElianQ5T3I4cF94UFlBUDZwTndoS2tadXc2ekx6ekxCQmFfTmJLbk1QZjRGRExocHdFbUtMaW1abGJsWFBVMlR1VTZYU3BFTHJFMmh0RjgzTFlPM2VjVDg4SVhn?oc=5",
@@ -43,6 +232,15 @@
     "category": "it",
     "pubDate": "2026-10-18T21:31:31.000Z",
     "collectedAt": "2026-10-18T22:00:24.361Z"
+  },
+  {
+    "id": "3e15cc8599782312",
+    "title": "코스피 새파랗게 질린 날…혼자 13% 뛴 종목 있었다 [종목+]",
+    "link": "https://www.hankyung.com/article/2026101658136",
+    "source": "한국경제",
+    "category": "business",
+    "pubDate": "2026-10-18T21:30:03.000Z",
+    "collectedAt": "2026-10-18T23:57:33.085Z"
   },
   {
     "id": "faa948d6d04c657c",
@@ -187,6 +385,15 @@
     "category": "business",
     "pubDate": "2026-10-18T20:19:01.000Z",
     "collectedAt": "2026-10-18T22:00:24.362Z"
+  },
+  {
+    "id": "6c258d6080e25319",
+    "title": "인터엑스, 상장 예심 통과 발판으로 자율제조 '전 산업 확장' 시동…수주 3배 이상 성장",
+    "link": "https://www.etnews.com/20261016000280",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-10-18T20:05:00.000Z",
+    "collectedAt": "2026-10-18T23:57:33.082Z"
   },
   {
     "id": "3c46996e91a2d405",
@@ -954,15 +1161,6 @@
     "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
-    "id": "f6966be27c138138",
-    "title": "시위 때 흉기 압수했다 돌려줬다…최충락 범행 전 경찰 대응 논란",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTWdOazFySVVlQXk5Y29qVVlxOTR6RUxkNFhQMS0xczM0dzB5NWhvZ1pnX1VRVjBZeDFEWXMtSEh2U3NPMUo0b1VIUFctQVN6TWJQX25OUm9vUQ?oc=5",
-    "source": "한국경제",
-    "category": "politics",
-    "pubDate": "2026-10-18T12:58:33.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
-  },
-  {
     "id": "5125f0262a7a40a2",
     "title": "시위 때 흉기 압수했다 돌려줬다…최충락 범행 전 경찰 대응 논란",
     "link": "https://www.hankyung.com/article/2026101891107",
@@ -970,6 +1168,15 @@
     "category": "society",
     "pubDate": "2026-10-18T12:58:33.000Z",
     "collectedAt": "2026-10-18T17:00:05.136Z"
+  },
+  {
+    "id": "f6966be27c138138",
+    "title": "시위 때 흉기 압수했다 돌려줬다…최충락 범행 전 경찰 대응 논란",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTWdOazFySVVlQXk5Y29qVVlxOTR6RUxkNFhQMS0xczM0dzB5NWhvZ1pnX1VRVjBZeDFEWXMtSEh2U3NPMUo0b1VIUFctQVN6TWJQX25OUm9vUQ?oc=5",
+    "source": "한국경제",
+    "category": "politics",
+    "pubDate": "2026-10-18T12:58:33.000Z",
+    "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
     "id": "a7cc20984d6b493e",
@@ -1863,15 +2070,6 @@
     "collectedAt": "2026-10-18T17:00:05.136Z"
   },
   {
-    "id": "4ca0fad825cdf814",
-    "title": "'명태균 여론조사' 尹은 무죄…오세훈 항소심 판결에 주목",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVEpEU3BZcVNtRldlb0ZGaFprZXZHQUpLbUJnQ05Dbm5kQ3RoOFotZmNESWl0LUhVYUxEUzVxNEd2VDE5LU9KVnFOWE14Sm5lelJtWnpDOURiQQ?oc=5",
-    "source": "한국경제",
-    "category": "politics",
-    "pubDate": "2026-10-18T08:48:11.000Z",
-    "collectedAt": "2026-10-18T19:48:39.405Z"
-  },
-  {
     "id": "f969efb2ea1b8d54",
     "title": "'명태균 여론조사' 尹은 무죄…오세훈 항소심 판결에 주목",
     "link": "https://www.hankyung.com/article/2026101888831",
@@ -1879,6 +2077,15 @@
     "category": "society",
     "pubDate": "2026-10-18T08:48:11.000Z",
     "collectedAt": "2026-10-18T17:00:05.136Z"
+  },
+  {
+    "id": "4ca0fad825cdf814",
+    "title": "'명태균 여론조사' 尹은 무죄…오세훈 항소심 판결에 주목",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVEpEU3BZcVNtRldlb0ZGaFprZXZHQUpLbUJnQ05Dbm5kQ3RoOFotZmNESWl0LUhVYUxEUzVxNEd2VDE5LU9KVnFOWE14Sm5lelJtWnpDOURiQQ?oc=5",
+    "source": "한국경제",
+    "category": "politics",
+    "pubDate": "2026-10-18T08:48:11.000Z",
+    "collectedAt": "2026-10-18T19:48:39.405Z"
   },
   {
     "id": "2f863d1a11bf7aa4",
@@ -2691,15 +2898,6 @@
     "collectedAt": "2026-10-18T17:00:05.131Z"
   },
   {
-    "id": "e1d098ed9fe3c8b7",
-    "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시",
-    "link": "https://www.etnews.com/20261016000222",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-10-18T07:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.131Z"
-  },
-  {
     "id": "e147357b54afc4e2",
     "title": "모기 때문에 아직도 짜증난다면 주목…'병뚜껑' 하나면 걱정 필요없네요 [위키꿀팁]",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CSlo2MDhHMk5BR1JudkRkTEdwc1BjQlVHYVFiZ2FldHBuTW16aTR6Z3F5bHM0Vm1NQWR1aXhmbzYxSldIM1FHVHB0aDc2MTU1WnRaeW1B?oc=5",
@@ -2725,6 +2923,15 @@
     "category": "business",
     "pubDate": "2026-10-18T07:00:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.135Z"
+  },
+  {
+    "id": "e1d098ed9fe3c8b7",
+    "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시",
+    "link": "https://www.etnews.com/20261016000222",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-10-18T07:00:00.000Z",
+    "collectedAt": "2026-10-18T17:00:05.131Z"
   },
   {
     "id": "9b40a8d0f7ff549b",
@@ -3456,15 +3663,6 @@
     "collectedAt": "2026-10-18T17:00:05.134Z"
   },
   {
-    "id": "2cad24f259feed8a",
-    "title": "HCL소프트웨어, 소버린 AI로 한국 공략…“도미노 고객·파트너 지원 확대”",
-    "link": "https://www.etnews.com/20261016000232",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-10-18T03:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.131Z"
-  },
-  {
     "id": "c83985973b044d79",
     "title": "“대통령이 가만히 있으면” 이 대통령 SNS가 부쩍 늘어난 이유 [런치정치]",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkS3N5WWZ1NFN5T2pYNl9fdk5xci0zby04YWpDaHh3cGtpZTNIenFuWFh4R1MxM2dxakp3RUZZQ25VMURneUN0RXhBZ2tlakoxSFFDa0NfdHNIQ05yMVHSAWNBVV95cUxOeU02bnJRc1V0MVF2aUdSMlBuTV9pSFdfV3BKOTd3NTM1V2xYS0M4bHYyM2ZiSzhaV29LbnY3eG50aVdmMEhjcGU4ZWdzOC1jRXVGRXkxUXRuSkhHcTlDbENlbjg?oc=5",
@@ -3474,13 +3672,13 @@
     "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
-    "id": "2013fce6049900cd",
-    "title": "K뷰티 수출 열풍의 숨은 엔진…이소영, 한국콜마 생산현장 점검",
-    "link": "https://www.etnews.com/20261018000017",
+    "id": "2cad24f259feed8a",
+    "title": "HCL소프트웨어, 소버린 AI로 한국 공략…“도미노 고객·파트너 지원 확대”",
+    "link": "https://www.etnews.com/20261016000232",
     "source": "전자신문",
-    "category": "business",
+    "category": "ai",
     "pubDate": "2026-10-18T03:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
+    "collectedAt": "2026-10-18T17:00:05.131Z"
   },
   {
     "id": "42a446edef475cf8",
@@ -3573,15 +3771,6 @@
     "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
-    "id": "a711b75fdce581d9",
-    "title": "'신세계 3세' 애니도 이렇게 쓴다…요즘 뜨는 향수 사용법",
-    "link": "https://www.hankyung.com/article/2026101884397",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T02:28:28.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
     "id": "01a187d7853d2156",
     "title": "부천 화재 진압 중 숨진 소방관 딸 마지막 편지 “아빠, 어른 돼서 다시 만나요”",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmWXlwc3FISl80N2M3Tk1pTTA4dzhPVTdSeU5ONUpCNHNRMXZvUXhRQkZKVVNpM0RvYnk2N1d4UFJnU082cVNyeDdtXzhXOHhMdXNoZnQxU0xBQdIBX0FVX3lxTE1zbzRwNVV0TVh6TEVRdEstZGpwWmFXUm1zcEVZS1JWRWQteGJUd0s3QnRQbmRyTDY3ZU8xaFBtMVhubjBNV3p3UmVXdi1Vc2xQTHl6T1g5TFlrVTVOQXdr?oc=5",
@@ -3654,15 +3843,6 @@
     "collectedAt": "2026-10-18T17:00:05.136Z"
   },
   {
-    "id": "3287eabb416e1ea6",
-    "title": "'509만원 아이폰' 사전예약 열리자마자…'반전' [프라이스&]",
-    "link": "https://www.hankyung.com/article/202610188349i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T02:00:06.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
     "id": "b03daafd2095ce8c",
     "title": "금발 여성들에 둘러싸인 트럼프…사진 한 장 속 ‘권력의 민낯’",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjNIbEM0a25LckVmeFlyVzdRX205VUcxMVBHNkdaQTFha1BoSTFyRXY1N2F2aUdTbThpYjVzSVZfWUhUVG5kTS1UX0FTUFlLdDhmdG42RERNLWU5dWQ0WWFZYVROMW81Q1hMN1hlNWRKMndNZ0R3NFU4MjA4OU5aeE80WDlZTUdmV25LbDgxRW40eFo0Q0RiUG8zTUVfUQ?oc=5",
@@ -3672,15 +3852,6 @@
     "collectedAt": "2026-10-18T17:00:05.137Z"
   },
   {
-    "id": "b98e568f4ecec968",
-    "title": "\"제철 굴 실컷 먹으려 했는데\"…마트 갔다가 '한숨' [박상경의 영수증 리뷰]",
-    "link": "https://www.hankyung.com/article/202610166081g",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T02:00:03.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
     "id": "e691ccfa1782e28e",
     "title": "LIG아큐버, 위성신호 안 닿는 터널서도 'V2X 통신'…세계 첫 실도로 시연",
     "link": "https://www.etnews.com/20261016000200",
@@ -3688,24 +3859,6 @@
     "category": "it",
     "pubDate": "2026-10-18T02:00:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.131Z"
-  },
-  {
-    "id": "ef2e5acfa5a21e4b",
-    "title": "세계 첨단 교통기술 강릉 집결…19일 ITS 세계총회 개막",
-    "link": "https://www.etnews.com/20261018000035",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-10-18T02:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
-  },
-  {
-    "id": "2bc7282671161783",
-    "title": "K푸드, 유럽 수출 23.5% 증가…프랑스 학교급식까지 판로 확대",
-    "link": "https://www.etnews.com/20261018000032",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-10-18T02:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
     "id": "14ad4e870597bc4a",
@@ -3771,15 +3924,6 @@
     "collectedAt": "2026-10-18T17:00:05.139Z"
   },
   {
-    "id": "ffeca4e1d789c55c",
-    "title": "\"돈 아껴드리겠습니다\"…슈퍼카 CEO가 날린 '일침' [최수진의 모빌리티톡]",
-    "link": "https://www.hankyung.com/article/202610166362g",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T01:30:02.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
     "id": "e37791945a7b269a",
     "title": "비시니에프스키 주한폴란드 대사 “게임으로 韓 젊은층과 소통”... 지스타에 폴란드관 마련",
     "link": "https://www.etnews.com/20261016000230",
@@ -3805,15 +3949,6 @@
     "category": "world",
     "pubDate": "2026-10-18T01:17:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.137Z"
-  },
-  {
-    "id": "7406c5f5b32c3fec",
-    "title": "“삼전닉스가 72% 삼켰다”…국민연금 보유주식 182조원 '증발'",
-    "link": "https://www.etnews.com/20261018000031",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-10-18T01:16:44.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
     "id": "289d1ab812ba818f",
@@ -3969,15 +4104,6 @@
     "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
-    "id": "4dd0a300f5878d75",
-    "title": "'중국서 돈 벌던 시절 끝났나'…한국 은행들 줄줄이 '비상' [차이나 워치]",
-    "link": "https://www.hankyung.com/article/202610177694i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T00:29:03.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
     "id": "7856db687fc0e770",
     "title": "에반, ‘불후의 명곡’서 타샤니 ‘경고’ 재해석…Y2K 감성 재현",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDYUtoRzRudkJTaFlFX0pYY0ViaGlpSkI3dTdpRkxudzloSVNvUE0xWEpvUVdONnRUbFlodlM3U3N0Wk1ualFWNjBaaWVWTzRIOG5ocVBTdW1mVG9qcWVwZEZ2dU9sX1JBUVg3ZFFn?oc=5",
@@ -3994,15 +4120,6 @@
     "category": "society",
     "pubDate": "2026-10-18T00:21:03.000Z",
     "collectedAt": "2026-10-18T17:00:05.136Z"
-  },
-  {
-    "id": "e864ea99750b0889",
-    "title": "토스증권, 윤리·준법경영 선포식 개최",
-    "link": "https://www.etnews.com/20261018000014",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-10-18T00:20:12.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
   },
   {
     "id": "1c342fd8524db0be",
@@ -4030,60 +4147,6 @@
     "category": "society",
     "pubDate": "2026-10-18T00:07:22.000Z",
     "collectedAt": "2026-10-18T17:00:05.136Z"
-  },
-  {
-    "id": "9b2db541ae64f416",
-    "title": "신한은행, 중저신용자 민간 중금리대출 금리 0.3%p 추가 인하",
-    "link": "https://www.etnews.com/20261018000008",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-10-18T00:05:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
-  },
-  {
-    "id": "eb2994b55be512b6",
-    "title": "NH농협은행, 'NH로얄챔버' 개점 1주년 최우수고객 청음회 개최",
-    "link": "https://www.etnews.com/20261018000011",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-10-18T00:04:34.000Z",
-    "collectedAt": "2026-10-18T17:00:05.135Z"
-  },
-  {
-    "id": "611a9b4cafd28e7a",
-    "title": "현대차·기아, 제조 AI 내재화 속도…로봇부터 공장 운영까지 혁신",
-    "link": "https://www.hankyung.com/article/202610166310g",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T00:00:11.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
-    "id": "70c386ea33f56f19",
-    "title": "스트래티지, MSCI 지수 퇴출 위기…비트코인 매수 동력 꺾이나",
-    "link": "https://www.hankyung.com/article/202610166875i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T00:00:09.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
-    "id": "42edc317db366890",
-    "title": "잘나가던 훠궈 제국의 고민…승부수 던진 하이디라오",
-    "link": "https://www.hankyung.com/article/202609156925i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T00:00:07.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
-  },
-  {
-    "id": "3d98d1b178a3c11e",
-    "title": "코인으로 1000만원 벌면…세금은 165만원 낸다",
-    "link": "https://www.hankyung.com/article/202610166514i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-10-18T00:00:03.000Z",
-    "collectedAt": "2026-10-18T17:00:05.134Z"
   },
   {
     "id": "336fa930f1842a90",
@@ -4626,15 +4689,6 @@
     "collectedAt": "2026-10-18T17:00:05.133Z"
   },
   {
-    "id": "d134b0788343f44a",
-    "title": "태양광 발전량, 사상 처음으로 전 세계 원자력 발전량 추월",
-    "link": "https://news.hada.io/topic?id=35532",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-10-17T16:40:02.000Z",
-    "collectedAt": "2026-10-18T17:00:05.133Z"
-  },
-  {
     "id": "d87dbcb03a9bf18f",
     "title": "직접공기포집과 굴뚝 포집, CO₂ 농도 차이가 가른다",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaVlsVkpzZkJvUEpPcWZHWGQ0U29mMjkxTU1XaXk0R09FYjJzQXlQeEdQdVFjQkNOdnpDTEh2dzAwUG1JZmYzWTFTYkN3ckoyWnVMcDFjT0RJRE4zbUlhWGdxQWJjUQ?oc=5",
@@ -4642,15 +4696,6 @@
     "category": "health",
     "pubDate": "2026-10-17T16:37:46.000Z",
     "collectedAt": "2026-10-18T17:00:05.138Z"
-  },
-  {
-    "id": "1fcb389259198d37",
-    "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
-    "link": "https://news.hada.io/topic?id=35531",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-10-17T16:33:01.000Z",
-    "collectedAt": "2026-10-18T17:00:05.133Z"
   },
   {
     "id": "5fcc190a398b5918",
@@ -4714,24 +4759,6 @@
     "category": "science",
     "pubDate": "2026-10-17T15:00:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.137Z"
-  },
-  {
-    "id": "c015d91e9219d7b0",
-    "title": "Claude, 양자 회로 설계 개선으로 타원곡선 연산 게이트 수 17분의 1로",
-    "link": "https://news.hada.io/topic?id=35530",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-10-17T14:38:47.000Z",
-    "collectedAt": "2026-10-18T17:00:05.133Z"
-  },
-  {
-    "id": "7702ed4da90da393",
-    "title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기",
-    "link": "https://news.hada.io/topic?id=35529",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-10-17T14:35:47.000Z",
-    "collectedAt": "2026-10-18T17:00:05.133Z"
   },
   {
     "id": "3ef295762baa5565",
@@ -5013,15 +5040,6 @@
     "collectedAt": "2026-10-18T17:00:05.120Z"
   },
   {
-    "id": "303509b009c18031",
-    "title": "전남보환연, 김장철 앞두고 배추김치·지하수 노로바이러스 검사 강화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216314",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-10-17T09:35:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.120Z"
-  },
-  {
     "id": "23477c56609eee7b",
     "title": "\"2024년보다 성장했다는 믿음 가져\" 김도영···다시 한번 '슈퍼스타' 증명했다",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYzgwaXpvZXFjbkFyM2pCMFB6VnFTY1RONEpDWGt4czF3a1F2alRtOW41eEpSbUNGWHBwN2JKdXc0U2VLSmJYZVBDTTN0TUhRMVlB?oc=5",
@@ -5029,6 +5047,15 @@
     "category": "sports",
     "pubDate": "2026-10-17T09:35:00.000Z",
     "collectedAt": "2026-10-18T22:00:24.368Z"
+  },
+  {
+    "id": "303509b009c18031",
+    "title": "전남보환연, 김장철 앞두고 배추김치·지하수 노로바이러스 검사 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216314",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-10-17T09:35:00.000Z",
+    "collectedAt": "2026-10-18T17:00:05.120Z"
   },
   {
     "id": "78daadabcf7994c7",
@@ -5121,15 +5148,6 @@
     "collectedAt": "2026-10-18T17:00:05.139Z"
   },
   {
-    "id": "a670a44b67d923da",
-    "title": "AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진",
-    "link": "https://www.etnews.com/20261016000227",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-10-17T08:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.131Z"
-  },
-  {
     "id": "77b1409caa52fcdf",
     "title": "\"없는 동물이 자꾸 보여요\" 4개월 환각 시달린 50대女…뇌 열어보니 '경악'",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtd1FJRHRKMEpfMFhjS2VOaXk4cm82Rkh1akdwWVRKVTgzeHVjRXN6c2ZBWE8xN2RQeGxZTDVqNy05OTA4QU95d0xXT09EaWl0aGkxeVhIZGZGUQ?oc=5",
@@ -5137,6 +5155,15 @@
     "category": "health",
     "pubDate": "2026-10-17T08:00:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.138Z"
+  },
+  {
+    "id": "a670a44b67d923da",
+    "title": "AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진",
+    "link": "https://www.etnews.com/20261016000227",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-10-17T08:00:00.000Z",
+    "collectedAt": "2026-10-18T17:00:05.131Z"
   },
   {
     "id": "17bf7f33f5ebf15e",
@@ -5688,15 +5715,6 @@
     "collectedAt": "2026-10-18T17:00:05.137Z"
   },
   {
-    "id": "c0dc47e943079fb1",
-    "title": "직스테크놀로지, 한성대 학생들의 AI 실무교육 기회 넓힌다…10억 원 상당 SW 지원",
-    "link": "https://www.etnews.com/20261016000256",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-10-16T07:00:00.000Z",
-    "collectedAt": "2026-10-18T17:00:05.131Z"
-  },
-  {
     "id": "4cbff2bcee8840b6",
     "title": "“40대부터 확 늙는다고?”…면역세포도 두번 ‘고비’ 온다",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXbGExTE5qY3pGRDVRNm1oX2plTERwM3EwUTlxRDJnbl9YN19WVlhLWHdtRExRS205U2pDbHlXOUNVN0dJQUZ3MmJ2cWhSVTVoRjNfalNMMFl2dw?oc=5",
@@ -5713,6 +5731,15 @@
     "category": "science",
     "pubDate": "2026-10-16T07:00:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.137Z"
+  },
+  {
+    "id": "c0dc47e943079fb1",
+    "title": "직스테크놀로지, 한성대 학생들의 AI 실무교육 기회 넓힌다…10억 원 상당 SW 지원",
+    "link": "https://www.etnews.com/20261016000256",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-10-16T07:00:00.000Z",
+    "collectedAt": "2026-10-18T17:00:05.131Z"
   },
   {
     "id": "edd0c6bbf4a6de0a",
@@ -5812,24 +5839,6 @@
     "category": "health",
     "pubDate": "2026-10-16T01:30:00.000Z",
     "collectedAt": "2026-10-18T17:00:05.138Z"
-  },
-  {
-    "id": "80cdca6469767650",
-    "title": "티오리 '진트', 오픈AI 이어 앤트로픽 보안 특화 AI 프로그램 참여",
-    "link": "https://www.etnews.com/20261016000059",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-10-16T01:04:31.000Z",
-    "collectedAt": "2026-10-18T17:00:05.131Z"
-  },
-  {
-    "id": "64a544de97b20cb8",
-    "title": "아우토크립트, 강릉 ITS 세계총회서 차량 사이버보안 기술 발표",
-    "link": "https://www.etnews.com/20261016000049",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-10-16T00:44:29.000Z",
-    "collectedAt": "2026-10-18T17:00:05.131Z"
   },
   {
     "id": "db503cf92b44150c",
