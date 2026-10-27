@@ -5,7 +5,7 @@ Discord로 보내주는 개인용 뉴스 브리핑 서비스입니다.
 
 - **웹 페이지**: https://mynews-2608-frontieralls-projects.vercel.app
   (Vercel Authentication이 켜져 있어 로그인해야 열립니다 — 아래 6절 참고)
-- **저장소**: https://github.com/frontierall/mydaily-news-2608 (private)
+- **저장소**: https://github.com/danielall-wj/mydaily-news-2608 (public, 2026-10-27 `frontierall`에서 이전)
 - **Discord**: 매일 21:00 KST, **매일뉴스브리핑** 채널로 분야별 브리핑 전송
 
 ---
