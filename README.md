@@ -3,8 +3,8 @@
 분야별 RSS 뉴스를 2시간마다 자동으로 모아 웹 페이지로 보여주고, 하루 한 번 분야별 헤드라인을
 Discord로 보내주는 개인용 뉴스 브리핑 서비스입니다.
 
-- **웹 페이지**: https://mynews-2608-frontieralls-projects.vercel.app
-  (Vercel Authentication이 켜져 있어 로그인해야 열립니다 — 아래 6절 참고)
+- **웹 페이지**: https://mynews-2608.vercel.app
+  (2026-10-27 danielall-wj Vercel로 옮기면서 로그인 없이 열리게 됨 — 아래 6절 참고)
 - **저장소**: https://github.com/danielall-wj/mydaily-news-2608 (public, 2026-10-27 `frontierall`에서 이전)
 - **Discord**: 매일 21:00 KST, **매일뉴스브리핑** 채널로 분야별 브리핑 전송
 
@@ -119,15 +119,17 @@ embed를 만들고 웹훅으로 보냅니다. 각 분야 embed에는 **최신 �
 수집 워크플로우가 커밋을 밀어 넣으면 그게 다시 Vercel 재배포를 일으켜 페이지가 갱신됩니다.
 즉 **2시간마다 데이터 커밋 → 자동 배포**가 한 줄로 이어집니다.
 
-### 주소 정리 (2026-09-10 확인)
+### 주소 정리 (2026-10-27 확인)
 
 | 주소 | 상태 |
 | --- | --- |
-| `mynews-2608-frontieralls-projects.vercel.app` | 배포 성공. 단 **Vercel Authentication**이 켜져 있어 로그인 없이는 302로 튕깁니다 |
-| `mynews-2608.vercel.app` | **배정돼 있지 않음** — `DEPLOYMENT_NOT_FOUND`. 예전 문서에 적혀 있던 주소입니다 |
+| `mynews-2608.vercel.app` | 프로덕션 주소. 로그인 없이 열립니다 (200) |
+| `mynews-2608-frontieralls-projects.vercel.app` | 옛 frontierall Vercel 프로젝트 주소. 프로젝트를 지워서 더 이상 쓰지 않습니다 |
 
-즉 지금 이 사이트는 **공개 상태가 아닙니다.** 아무나 볼 수 있게 하려면 Vercel 프로젝트에서
-Deployment Protection을 끄고, 원하면 짧은 별칭(`mynews-2608.vercel.app`)을 프로덕션에 붙이면 됩니다.
+2026-10-27 저장소를 `danielall-wj/mydaily-news-2608`로 옮기면서 Vercel 프로젝트도 danielall-wj
+쪽 Vercel(`frontierlim13-4143s-projects`)에 같은 이름(`mynews-2608`)으로 새로 만들었습니다.
+Deployment Protection은 미리보기 배포에만 걸려 있어 프로덕션 주소는 공개 상태입니다.
+다시 비공개로 하려면 Vercel 프로젝트 Settings → Deployment Protection에서 바꾸면 됩니다.
 저장소 이름은 `mynews-2608` → `mydaily-news-2608`로 바뀌었지만 Vercel 프로젝트 이름은 그대로라
 둘이 어긋나 있는 상태입니다.
 
