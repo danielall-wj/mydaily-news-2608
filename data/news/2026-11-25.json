@@ -1,5 +1,383 @@
 [
   {
+    "id": "0e6fab5048ad4d44",
+    "title": "오픈AI \"범용 AI GPT-6, 전문 모델 없이 단백질 설계…실험서 검증\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217758",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T18:23:41.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "5a4ef565ec2b51ab",
+    "title": "앤트로픽, AI 샌드박스 탈출 평가 '사이렌' 공개…최대 32% 접근 시도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217763",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T18:13:28.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "fa9d877433cc479b",
+    "title": "최첨단 AI, 글 하나만으로 작성자 실명까지 알아내…익명성 위협",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217785",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T18:01:43.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "fc7a5d7f27ed03e1",
+    "title": "오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 '아테나' 개발 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217778",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T17:46:26.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "6c63b959cf59cd1a",
+    "title": "오픈AI·시스코, AI로 리눅스 공격 막는 보안 기술 '시루도' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217766",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T17:28:30.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "eb0f47a501f60df8",
+    "title": "MS, 자체 강화학습 인프라 '로켓' 공개…\"외부 모델 증류 없이 성능 향상\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217783",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T17:19:15.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "60e9caacbd079559",
+    "title": "xAI 창립 멤버들, 미래 예측 AI 개발 나서…30년치 인터넷 활용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217779",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T17:07:12.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "76560941fcb4e355",
+    "title": "[게시판] LGU+, AI 통화 앱 '익시오' 보이스피싱 기능 강화 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217781",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T17:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "d66090325b18d9ad",
+    "title": "음악 플랫폼 타이달, AI 생성곡 전면 금지…연말까지 2900만곡 삭제",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217782",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T16:59:55.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "297a373b64b74b5d",
+    "title": "로이터 \"앨리스 황 관련 기업, 중국서 3억달러 규모 AI 장비 금융 거래 확인\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217784",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T16:53:35.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "32cc0e86dc5027d6",
+    "title": "브릴스, 디와이에이에 로봇 솔루션 공급...AI 고속 비전 로봇으로 공정 고도화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217780",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T16:21:32.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "dcb0015d58792fbb",
+    "title": "오픈클로, 실생활 AI 에이전트 평가 '셸벤치' 공개…최고 모델도 성공률 62.5%",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217773",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T16:16:09.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "bfa40355f58fc743",
+    "title": "앤트로픽 \"AI 도입 기업, 직원 해고보다 신규 채용 줄여\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217775",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T16:02:19.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "14b33db1be001189",
+    "title": "스페이스X·테슬라, 3.5조달러 합병 협상 본격화…연내 타결 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217774",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:54:42.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "336e2b45ffdfa483",
+    "title": "일레븐랩스, 국내 AI 단편제작 프로젝트에 기술 파트너로 참여·지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217771",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:50:19.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "107706c7dff53707",
+    "title": "전남대, 등록금·장학금 업무 AI 자동화 확대 추진…기존 시스템에 3억원 추가",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217754",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:48:58.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "b6a365a38353dfac",
+    "title": "전남광주, 서·논술형 평가 단계적 확대…AI 평가지원시스템 내년 시범",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217768",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:47:22.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "b6080d5ced1ff5ed",
+    "title": "의료영상 AI 뉴로핏, 서틀메디컬과 솔루션 협력...북미 시장 조준",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217767",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:46:41.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "6f53ff5a95a55e88",
+    "title": "오픈AI 도청 혐의 전직 엔지니어, 보석금 13억원에 석방 예정",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217762",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:45:17.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "4f4353f392f6b819",
+    "title": "KT, LG전자와 대량 AI 데이터 전송 위한 6G 핵심 업로드 기술 검증",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217772",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:32:29.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "ee6f5d82ab2860cd",
+    "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217776",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T15:31:09.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "dc77c85c28687f83",
+    "title": "\"AI에 월 25달러 쓰면 물 7.2ℓ 소비…아몬드 우유의 162분의 1\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217769",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T13:51:56.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "95411a637a555393",
+    "title": "젠슨 황 복귀 후폭풍…엔비디아 이사회 독립성 논란",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217765",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T13:45:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "c5aee96260c271ea",
+    "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217764",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T13:14:35.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "e9b6587a284a6221",
+    "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217761",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T12:47:58.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "6b7cfe8a167d2b02",
+    "title": "오픈AI·앤트로픽 내부서 AI 개발 중단론…\"최고 모델 통제 어려워\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217755",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T12:38:15.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "604b129711bbc3f8",
+    "title": "과기부, 3차 미래전략회의…\"AI 경제적 가치 창출이 국가 경쟁력 좌우\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217760",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T12:23:08.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "b7aa78b56a9ff016",
+    "title": "화웨이, 미 형사재판서 10개 혐의 유죄…핵심 조직범죄 혐의는 무죄",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217756",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T11:55:47.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "6cc6feec944a95e6",
+    "title": "딥핑소스, 오사카 지하철역 구내 상담부스에 AI 영상분석 솔루션 공급",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217757",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T11:50:23.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "cd229838e287d2ca",
+    "title": "테슬라, 4.1조원 태양광 원료공장 추진…텍사스에 세금 감면 신청",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217671",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T11:35:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "497a6d99b1cb190b",
+    "title": "중국 태양광 조달 기준 바뀐다…싼샤그룹, 5.24GW 입찰에 효율등급 적용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217714",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T11:20:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "89b59bbe0a8a9dc9",
+    "title": "베트남, 태양광 전력 판매설비 검사 강화…원격 출력제어 시험",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217713",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T11:15:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "77305ced4496736a",
+    "title": "2026 AI 챌린지 레이스 질주",
+    "link": "https://www.etnews.com/20261125000586",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T10:04:49.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "9666bb38159345aa",
+    "title": "앤트로픽, 상장 4거래일 만에 공모가 붕괴…시총 5000억달러 증발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217753",
+    "source": "AI타임스",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:48:29.000Z",
+    "collectedAt": "2026-11-25T10:39:36.259Z"
+  },
+  {
+    "id": "f7c71735756d2e3e",
+    "title": "AI가 결제까지…비자 “신뢰와 협력이 핵심”",
+    "link": "https://www.etnews.com/20261125000579",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T09:34:10.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "2ed6eb78b839c341",
+    "title": "LG CNS, AI 공동 사업 판 키운다…피지컬 AI까지 협력 확대",
+    "link": "https://www.etnews.com/20261125000569",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:16:41.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "c19c6758ac7c9060",
+    "title": "올거나이즈, 삼성화재 '보험 문서' AI 활용 데이터로 전환",
+    "link": "https://www.etnews.com/20261125000568",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:16:08.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "eb56066200e8b1b9",
+    "title": "플리토, AI 통번역 '보글' 도입 행사 연간 850건 육박",
+    "link": "https://www.etnews.com/20261125000564",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:10:46.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "b8f5855df4ac10ff",
+    "title": "포티투마루, AI·SW 인재페스티벌서 AI 인재 양성 지원",
+    "link": "https://www.etnews.com/20261125000563",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:09:39.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "9d49f1bbfcc1847c",
+    "title": "인덴트코퍼레이션, AI 의료 마케팅 확대…의료기관 70% 피부과",
+    "link": "https://www.etnews.com/20261125000561",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:09:11.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "4b0984371bdc60f4",
+    "title": "상생협력재단, 상생결제 우수사례 8건 선정…한국남부발전 '대상'",
+    "link": "https://www.etnews.com/20261125000560",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T09:09:11.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "7fe06cad5a7ded01",
+    "title": "Per Vognsen이 살펴본 AVX-512의 렉싱과 파싱 성능 영향",
+    "link": "https://news.hada.io/topic?id=37829&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T09:03:19.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
     "id": "0628498cb01e1ced",
     "title": "[AI리더의 서가] 에이전틱 코딩 완성의 기술",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217621",
@@ -7,6 +385,330 @@
     "category": "ai",
     "pubDate": "2026-11-25T09:00:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.164Z"
+  },
+  {
+    "id": "2400a462eb475327",
+    "title": "대한민국 SW·AI 혁신기업 한자리에…제4회 글로벌 ACX 초월대상 개최",
+    "link": "https://www.etnews.com/20261124000407",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "9f52919aad90451d",
+    "title": "[제4회 글로벌 ACX 초월대상] 더존비즈온, 'ONE AI' 다중 AI 에이전트·지식그래프 기술로 기업 업무 혁신",
+    "link": "https://www.etnews.com/20261124000398",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "0a1c3880a826ed8c",
+    "title": "[제4회 글로벌 ACX 초월대상] 한국자산관리공사, AI로 국유재산 공사현장 안전관리 혁신…잠재 위험요인 425건 발굴",
+    "link": "https://www.etnews.com/20261124000405",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "328fcbf990cd1ffa",
+    "title": "[제4회 글로벌 ACX 초월대상] 아라소프트, 생성형 AI로 기업 보고 업무 혁신…작성부터 승인까지 한 화면에서",
+    "link": "https://www.etnews.com/20261124000404",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "4706e3d5dcaf4b37",
+    "title": "[제4회 글로벌 ACX 초월대상] 씨앤테크, AI로 국고 지원 설비 사후관리 혁신…24시간 지능형 안전관제 구현",
+    "link": "https://www.etnews.com/20261124000403",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "40354f33e46ad25d",
+    "title": "[제4회 글로벌 ACX 초월대상] 마드라스체크, 마드라스체크, AI 협업툴 '플로우'로 기업 업무 자동화 시장 선도",
+    "link": "https://www.etnews.com/20261124000402",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "1f9b92c66621b586",
+    "title": "[제4회 글로벌 ACX 초월대상] 토스랩, AI 결합 협업 플랫폼 '잔디'로 기업 업무 혁신 가속",
+    "link": "https://www.etnews.com/20261124000401",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "a65e2d4de84db350",
+    "title": "[제4회 글로벌 ACX 초월대상] 피에프씨테크놀로지스, AI 금융 솔루션 '에어팩'으로 여신 의사결정 혁신",
+    "link": "https://www.etnews.com/20261124000400",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "8bac49f8ce6449c9",
+    "title": "[제4회 글로벌 ACX 초월대상] 가온플랫폼, AI 기반 발전설비 고장예측진단으로 스마트 유지보수 시장 공략",
+    "link": "https://www.etnews.com/20261124000397",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "c22e06044a0dd8bd",
+    "title": "[제4회 글로벌 ACX 초월대상] 메타빌드, 에이전트 네이티브 기반 'LLaMON AX'로 기업·공공 AX 혁신 선도",
+    "link": "https://www.etnews.com/20261124000396",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "cada008f242d1f78",
+    "title": "[제4회 글로벌 ACX 초월대상] [제4회 글로벌 ACX 초월대상] 유신테크, AI 기반 도시 통합 에너지관리 시장 공략",
+    "link": "https://www.etnews.com/20261124000394",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "97cb7d43d5b36893",
+    "title": "[제4회 글로벌 ACX 초월대상] 고려아카데미컨설팅, 강의 중심 교육 넘어 'AI 실행형 교육' 시대 연다",
+    "link": "https://www.etnews.com/20261124000393",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "3b1ea5f0ef186c55",
+    "title": "[제4회 글로벌 ACX 초월대상] 고중훈 아이씨티웨이 이사,    국가 R&D·공공기관 AI 사업 다수 수행",
+    "link": "https://www.etnews.com/20261124000390",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T09:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "bef022597f618aa0",
+    "title": "법원, CJ ENM '송출 종료 금지' 가처분 기각…“양사 막바지 협상 진행중”",
+    "link": "https://www.etnews.com/20261125000552",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T08:57:02.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "e05159d96f615b15",
+    "title": "신용정보원·에너지공단, '에너지 사용 데이터' 신용평가 활용한다",
+    "link": "https://www.etnews.com/20261125000549",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:52:31.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "c348bb75c12f409d",
+    "title": "도산 정신 이어갈 리더…'애기애타 과정' 10기 45명 수료",
+    "link": "https://www.etnews.com/20261125000547",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:51:33.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "304c52684a19e73c",
+    "title": "소진공, 30년 전통 울산 '백마돼지숯불갈비' 백년소상공인 지정",
+    "link": "https://www.etnews.com/20261125000546",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:46:15.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "f85f2440f876184d",
+    "title": "카카오페이, 해외결제 현지화…동남아 QR·유럽 NFC 앞세운다",
+    "link": "https://www.etnews.com/20261125000541",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:41:29.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "717b8d90f68ead1e",
+    "title": "Gemini가 ‘반짝반짝 작은 별’ 가사를 알려 달라는 요청을 거부함",
+    "link": "https://news.hada.io/topic?id=37827&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T08:37:36.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "516b7aee7fba7542",
+    "title": "우리은행, 남양주에 인재 육성 '다산연수원' 짓는다",
+    "link": "https://www.etnews.com/20261125000539",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:35:03.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "b930dbf515894eb7",
+    "title": "나는 요즘 부엌에서 와인을 마시고 있다",
+    "link": "https://news.hada.io/topic?id=37826&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T08:34:36.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "09d5557c6105be93",
+    "title": "“월급 210만원 중 190만원 저축”…'대기업 김부장' 작가, 200억 자산 일군 비결",
+    "link": "https://www.etnews.com/20261125000525",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:13:30.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "95cd2c37e3df938b",
+    "title": "넷츠, AI 에이전트까지 계정·권한 관리 확대…통합 보안 전략 제시",
+    "link": "https://www.etnews.com/20261125000521",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T08:07:56.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "a7395c47a430a43d",
+    "title": "인포뱅크, 그린에너지 AI 서비스 개발 기업 사업화 전주기 지원",
+    "link": "https://www.etnews.com/20261125000519",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T08:02:59.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "545613b930c8618e",
+    "title": "[인터뷰] 김계영 숭실대 IT대학장 “중소기업 AI 혁신, 외주보다 내부 전문인력 키워야”",
+    "link": "https://www.etnews.com/20261125000080",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T08:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "a6842bf47483a0f6",
+    "title": "토스증권, AI로 커뮤니티 개인정보 노출 막는다",
+    "link": "https://www.etnews.com/20261125000363",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T08:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "b3f21883844613d2",
+    "title": "웨이티즈, 유럽 C-ITS 크로스 테스트 참가…실도로서 V2X 호환성 검증",
+    "link": "https://www.etnews.com/20261125000513",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T07:53:54.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "094a0ddfbb54024e",
+    "title": "서울AI재단, 서울시청소년시설협회와 청소년 AI 교육 확산 협력",
+    "link": "https://www.etnews.com/20261125000497",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T07:42:41.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "cfa7383f7b599d3f",
+    "title": "샌드박스에 격리된 모델도 추론 서버를 통해 통신할 수 있음",
+    "link": "https://news.hada.io/topic?id=37824&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T07:34:06.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "97939b3183daa6fe",
+    "title": "워트인텔리전스, 화학 특허 선행조사 서비스 '키워트 케미스트리' 정식 출시",
+    "link": "https://www.etnews.com/20261125000465",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T07:30:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "73d8ce6d0c5ec443",
+    "title": "[포토] AI포뮬러차량의 가을 질주",
+    "link": "https://www.etnews.com/20261125000476",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T07:28:18.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "169cf9e679598fe5",
+    "title": "[포토] 2026 AI 챌린지 레이스 대회",
+    "link": "https://www.etnews.com/20261125000469",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T07:23:31.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "74d8b788363a4fed",
+    "title": "[포토] 2026 AI 챌린지 레이스 대회",
+    "link": "https://www.etnews.com/20261125000467",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T07:15:43.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "11db681a69f5cfe9",
+    "title": "씽크프리, 연매출 첫 50억 원 '초읽기'… AI 문서 편집으로 해외 노린다",
+    "link": "https://www.etnews.com/20261125000464",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T07:09:18.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "6ca0fe934dd1a1b0",
+    "title": "케이비티닷·위닝플랫폼, 해외 소싱 플랫폼 'WinQ' 정식 출시",
+    "link": "https://www.etnews.com/20261125000463",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T07:09:02.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "af11529f413a0df3",
+    "title": "코스피, 6% 급락해 4700선 반납 마감…전날 상승분 모두 내줘",
+    "link": "https://www.etnews.com/20261125000461",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T07:03:54.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
   },
   {
     "id": "75f0cef4acf916d8",
@@ -18,6 +720,285 @@
     "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
+    "id": "c25d2f3e91796fc3",
+    "title": "[미리보는 소프트웨이브 2026]〈4〉중견 SW, 업무 혁신 AI로 기업 AX 이끈다",
+    "link": "https://www.etnews.com/20261125000333",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T07:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "74ec77d1dfaa0e9b",
+    "title": "[기획]정보보호 공시 11년…기업 보안 투자 촉진 새 전환점",
+    "link": "https://www.etnews.com/20261125000176",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T07:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "9647a1a2f8d46dfb",
+    "title": "코웨이 '비렉스', 겨울철 최적의 수면 환경 조성…온열 안마부터 화재 대비까지",
+    "link": "https://www.etnews.com/20261123000453",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T07:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "500f8642a4c908dc",
+    "title": "“방송산업 경쟁력 회복 시급…통합미디어법, 규제 중첩 피해야”",
+    "link": "https://www.etnews.com/20261125000417",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T07:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "dd0165914b274b0e",
+    "title": "[ET시론]지역주도 과학기술혁신이 대한민국의 성장 지도를 바꾼다",
+    "link": "https://www.etnews.com/20261125000138",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T07:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "5757b84cc2da7b81",
+    "title": "“동반성장, 소상공인과 지역사회로 확산해야”…국회서 상생협력 방안 논의",
+    "link": "https://www.etnews.com/20261125000458",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:50:08.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "4f67f07cef2f1d4d",
+    "title": "[포토] 조선대 AI포뮬러 자율주행차의 멋진 질주",
+    "link": "https://www.etnews.com/20261125000456",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:47:57.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "6d8ab4f92bddce26",
+    "title": "경기창조경제혁신센터, 정부혁신 박람회 참가…'모두의창업 경기' 성과·우수사례 소개",
+    "link": "https://www.etnews.com/20261125000454",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:42:18.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "af015f0c29f2402c",
+    "title": "USB-C 분리하기: 포트 하나에서 USB 3와 USB 2 함께 쓰기",
+    "link": "https://news.hada.io/topic?id=37823&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T06:39:12.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "7a1b393fe53f9f5f",
+    "title": "Button Sounds - 전문적으로 녹음한 버튼 클릭과 누름 소리 모음",
+    "link": "https://news.hada.io/topic?id=37822&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T06:36:12.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "730f846056a13b7e",
+    "title": "게임 수출은 이차전지급, 지원은 '사각지대'... “국가전략자산으로 키워야”",
+    "link": "https://www.etnews.com/20261125000447",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T06:34:58.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "95800332e301dbf1",
+    "title": "[포토] 2026 AI 챌린지 레이스 대회",
+    "link": "https://www.etnews.com/20261125000446",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:34:16.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "66613e6a82ddb546",
+    "title": "[포토] AI AX 혁신 스토어",
+    "link": "https://www.etnews.com/20261125000444",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:31:57.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "779282fb3f858764",
+    "title": "AI·SW 인재 페스티벌 개최…60개 대학 교육·프로젝트 성과 공개",
+    "link": "https://www.etnews.com/20261125000418",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:30:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "1c2237e9bcf1b081",
+    "title": "[포토] 2026 대한민국 정부혁신 박람회",
+    "link": "https://www.etnews.com/20261125000443",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:21:42.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "1fd67a49ac23e4d6",
+    "title": "[포토] 인하대 자율주행차, 스피드웨이 달릴 준비~",
+    "link": "https://www.etnews.com/20261125000437",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:12:46.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "a02934f2b9bca5e3",
+    "title": "[포토] 코리아 핀테크 위크 2026 오프닝 세리머니",
+    "link": "https://www.etnews.com/20261125000429",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:09:47.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "165f5eb30caf54be",
+    "title": "[포토] 코리아 핀테크 위크 2026",
+    "link": "https://www.etnews.com/20261125000427",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:09:25.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "3c310c71db83c0ee",
+    "title": "[신간]“AI 시대, 리더는 결정으로 승부한다”…더 디사이더",
+    "link": "https://www.etnews.com/20261125000426",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T06:09:20.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "e608f7a91416b5c0",
+    "title": "[포토] 코리아 핀테크 위크 2026",
+    "link": "https://www.etnews.com/20261125000425",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:09:18.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "70be1ce14daeed43",
+    "title": "콘진원, 지스타서 K-콘솔게임 10종 지원... 소니 '플스' 협력으로 플랫폼 연계 강화",
+    "link": "https://www.etnews.com/20261125000423",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T06:08:06.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "02b49796fef7b64c",
+    "title": "[포토] 자율주행 AI 레이싱카의 거침없는 질주",
+    "link": "https://www.etnews.com/20261125000420",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:06:19.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "8faa12f782b58868",
+    "title": "[포토] AI 기술로 질주하는 자율주행 레이싱카",
+    "link": "https://www.etnews.com/20261125000419",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:05:54.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "1d973b4cf4e07f76",
+    "title": "[포토] 2026 AI 챌린지 레이스 대회",
+    "link": "https://www.etnews.com/20261125000416",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:02:05.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "5ec037882ec8cc8c",
+    "title": "[포토] 트랙을 누비는 AI 포뮬러 자율 주헹차",
+    "link": "https://www.etnews.com/20261125000415",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T06:01:22.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "b0d9e06ba3770443",
+    "title": "[르포]손바닥으로 병원비 내고, AI에 적금 가입 맡겼다",
+    "link": "https://www.etnews.com/20261125000348",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "43751e9623d9abb0",
+    "title": "전국 139개 시·군 농촌공간 재편 속도…12월 특화지구 지정 본격화",
+    "link": "https://www.etnews.com/20261125000205",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "c5d6ed7f2c3e7c54",
+    "title": "금융당국, AI 해킹·디지털뱅크런 가정한 대형은행 위기훈련 실시",
+    "link": "https://www.etnews.com/20261125000097",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T06:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "5aa304846e9d22f7",
+    "title": "[포토] 코너 도는 AI 포뮬러",
+    "link": "https://www.etnews.com/20261125000414",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T05:59:28.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "a4c9f195c48b2f52",
+    "title": "KT-금감원, AI 금융사기 예방 체험관 운영",
+    "link": "https://www.etnews.com/20261125000412",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:58:53.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "98f227cb8d75fc68",
+    "title": "[포토] 2026 AI 챌린지 레이스 대회",
+    "link": "https://www.etnews.com/20261125000411",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T05:57:04.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
     "id": "a0f418d73d3e2f1b",
     "title": "젠슨 황, 복귀 후 첫 직원회의서 사과…복귀 정당성 강조",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217752",
@@ -25,6 +1006,618 @@
     "category": "ai",
     "pubDate": "2026-11-25T05:55:29.000Z",
     "collectedAt": "2026-11-25T00:13:25.164Z"
+  },
+  {
+    "id": "d5a02bd533629165",
+    "title": "머니스테이션, 홍콩 핀테크위크 참가…현지 금융사와 AI 투자분석 엔진 POC 체결",
+    "link": "https://www.etnews.com/20261125000410",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:52:14.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "5c1e81b61fdec7a6",
+    "title": "코스피 장중 4700선 아래로…전날 상승분 모두 반납",
+    "link": "https://www.etnews.com/20261125000409",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:51:25.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "654fccfa46e43a6f",
+    "title": "[포토] 한국IT서비스학회 추계학술대회",
+    "link": "https://www.etnews.com/20261125000408",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T05:50:33.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "dfc427c0e7400888",
+    "title": "[포토] 한국IT서비스학회 추계학술대회",
+    "link": "https://www.etnews.com/20261125000405",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T05:46:06.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "7ae65e2f27a1e2eb",
+    "title": "모디전스비전, 싱가포르 'SWITCH 2026' 참가…현지 엣지 AI 반도체 기업 Acrab과 MoU 체결",
+    "link": "https://www.etnews.com/20261125000404",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:45:54.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "cceed1ab882f4a43",
+    "title": "[포토] 2026 AI 챌린지 레이스 대회",
+    "link": "https://www.etnews.com/20261125000403",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T05:45:50.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "32322c975a6531e1",
+    "title": "CCHV 중국 본사 연구센터, CNAS 인정 획득…글로벌 시험 대응 역량 강화",
+    "link": "https://www.etnews.com/20261125000401",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:41:30.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "d150813bddefc690",
+    "title": "PenGPT: 손글씨와 스케치를 위한 생성형 Transformer",
+    "link": "https://news.hada.io/topic?id=37819&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T05:38:33.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "877b5e301258f062",
+    "title": "제이솔루션·패턴앤, AI 기반 고장예측 기술 고도화…서로 다른 제조 환경 교차 실증",
+    "link": "https://www.etnews.com/20261125000398",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:38:05.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "6ba8572fca1a5305",
+    "title": "여행 가방에 들어가는 이탈리아 접이식 자전거 디자인",
+    "link": "https://news.hada.io/topic?id=37818&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T05:35:33.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "86e36217d1c49c4e",
+    "title": "“아빠가 하던 리니지, 이젠 가족과 함께”... 첫 통합 축제에 1만명 몰려",
+    "link": "https://www.etnews.com/20261125000396",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:33:40.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "09852f8ac679cc5d",
+    "title": "CJ ENM, AI 광고 솔루션 고도화…IP 활용 확대",
+    "link": "https://www.etnews.com/20261125000395",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:32:19.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "5dd476ef229d1a21",
+    "title": "카카오페이, 금융범죄 대응 성과로 경찰청 감사장·금융위원장 표창 받아",
+    "link": "https://www.etnews.com/20261125000394",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:31:58.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "8251193fde3169a4",
+    "title": "더존비즈온, '사이버보안·정보보호 특별자문위' 출범…대응 역량 강화",
+    "link": "https://www.etnews.com/20261125000393",
+    "source": "전자신문",
+    "category": "ai",
+    "pubDate": "2026-11-25T05:31:28.000Z",
+    "collectedAt": "2026-11-25T10:39:36.267Z"
+  },
+  {
+    "id": "72ec6252776b56be",
+    "title": "화웨이, 독자 설계 '타우 칩' 적용 확대…폴더블 신제품 공개",
+    "link": "https://www.etnews.com/20261125000392",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:29:32.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "a742a3b993395d16",
+    "title": "LG유플러스, '유큐브' 클라우드 전환 내년 상반기 완료…AI 이식 본격",
+    "link": "https://www.etnews.com/20261125000390",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:28:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "5f4f5aefd00848a7",
+    "title": "쿠첸 프리미엄 밥솥 '티탄 컬렉션' 판매량 10월 전월 대비 80% 증가",
+    "link": "https://www.etnews.com/20261125000387",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:21:09.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "14ce13d81c6d856b",
+    "title": "LG전자, 9개 제품 2026 우수디자인(GD) 선정",
+    "link": "https://www.etnews.com/20261125000384",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:18:25.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "06aad87035381c6b",
+    "title": "주파수 할당, 사업자가 먼저 제안하는 법안 발의…신규사업자 진입장벽 낮춰",
+    "link": "https://www.etnews.com/20261125000383",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:18:14.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "9db4cedfcc3d60c5",
+    "title": "비트플래닛, DAS 사업부 대표에 제이슨 팡 선임…디지털자산 사업 총괄",
+    "link": "https://www.etnews.com/20261125000378",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:15:33.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "be5f8c2688f4b346",
+    "title": "'모두의 창업' 로컬트랙 결선 진출자 100명 선정…청년층 67%",
+    "link": "https://www.etnews.com/20261125000375",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:12:20.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "58763723530d19e8",
+    "title": "앱 마켓 거래액 10조원 돌파…개발자 70% “인앱결제 수수료 부담”",
+    "link": "https://www.etnews.com/20261125000372",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T05:10:55.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "678c04154c55c19b",
+    "title": "K말차 수출길 넓힌다…5년 내 차 수출 3500만달러 목표",
+    "link": "https://www.etnews.com/20261125000325",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "d2c05c466b8f85b2",
+    "title": "생보업계, 신계약 절반 이상 GA…은행 판매는 '반토막'",
+    "link": "https://www.etnews.com/20261125000112",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T05:00:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "a6f04daff40b6c71",
+    "title": "코인원 차명훈, 내달 초 닥사 의장 취임…'가상자산판 금투협' 나오나",
+    "link": "https://www.etnews.com/20261125000355",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:59:21.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "2ea1b9c1c2daa701",
+    "title": "[디자인코리아 2026] 로봇 손끝에서 무인 제조까지…디자인이 바꾸는 일상",
+    "link": "https://www.etnews.com/20261125000346",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:54:49.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "cfbe0515b9e416a6",
+    "title": "카카오뱅크, 미스트랄 AI와 금융 특화 LLM 공동 개발",
+    "link": "https://www.etnews.com/20261125000339",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:51:31.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "9665d68cea70132f",
+    "title": "소공연, '일법 패키지' 입법 중단 촉구…“소상공인·민생 우선해야”",
+    "link": "https://www.etnews.com/20261125000336",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:49:34.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "6b93798d61cf06b4",
+    "title": "[ET특징주] '젠슨 황 복귀 효과', 하루만에 끝났다…삼전·닉스 9%대 급락",
+    "link": "https://www.etnews.com/20261125000329",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:42:39.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "380429a0501913e3",
+    "title": "[ET특징주]두산, 美 반도체주 급락 여파에 하락세",
+    "link": "https://www.etnews.com/20261125000327",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:39:49.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "034e90acc784235d",
+    "title": "[ET특징주]뉴로핏, 美 의료영상 AI 기업과 공급 계약에 상승세",
+    "link": "https://www.etnews.com/20261125000326",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:39:33.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "c76b7974cb7cd387",
+    "title": "그노랜드, 글로벌 해커톤 'Gnome Tavern' 개최…Go 언어 기반 블록체인 개발 생태계 확대",
+    "link": "https://www.etnews.com/20261125000312",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:39:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "7ae3fcacde439319",
+    "title": "[ET특징주] 멈추지 않는 해킹 사고… 안랩, 주가 28% 급등",
+    "link": "https://www.etnews.com/20261125000320",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:36:13.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "3e63a13bf38d79a1",
+    "title": "KX이노베이션, 주력 계열사 약진에 3분기 호실적...핵심 사업 고른 성장세",
+    "link": "https://www.etnews.com/20261125000311",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:33:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "69523094606281b7",
+    "title": "후시파트너스, 가스공사·버스연합회와 수소버스 온실가스 감축 방법론 개발 및 감축사업 추진",
+    "link": "https://www.etnews.com/20261125000309",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:29:55.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "46f97b13f24c4af9",
+    "title": "베스트슬립, 싱가포르 5성급 호텔 '크라운 플라자 창이 에어포트' 매트리스 공급 쾌거",
+    "link": "https://www.etnews.com/20261125000308",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:29:24.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "acf8f3f7c2564e6e",
+    "title": "이터널, 고려대와 생체인증 정책연구 계약 체결…공공·금융 사이버보안 사업 확대",
+    "link": "https://www.etnews.com/20261125000307",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:29:01.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "f20cc4b42a1cf7ec",
+    "title": "케이스티파이, 포켓몬 30주년 기념 한정판 컬렉션 출시",
+    "link": "https://www.etnews.com/20261125000301",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T04:20:30.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "ae17dd09ac8ff512",
+    "title": "KB인베, 중진공과 유망 중소기업 도약 지원 MOU",
+    "link": "https://www.etnews.com/20261125000298",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T04:16:37.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "4fd40f2898465654",
+    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7, 13.3.2 (여러 CVE 관련)",
+    "link": "https://news.hada.io/topic?id=37814&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T03:36:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "620a9aca53ab1969",
+    "title": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]",
+    "link": "https://news.hada.io/topic?id=37813&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T03:33:00.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "847e2dd84229a25b",
+    "title": "에스와이폴라리스-KB국민카드, 와이페이모어와 AI 에이전트 항공권 결제 실증",
+    "link": "https://www.etnews.com/20261125000292",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T03:32:49.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "5ba98b73b309d980",
+    "title": "[포토] 코리아 핀테크 위크 2026 개막",
+    "link": "https://www.etnews.com/20261125000288",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T03:28:19.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "8a74d6b7092df628",
+    "title": "[포토] 코리아 핀테크 위크 2026...AI 시니어 케어 로봇 '케비'",
+    "link": "https://www.etnews.com/20261125000287",
+    "source": "전자신문",
+    "category": "business",
+    "pubDate": "2026-11-25T03:28:03.000Z",
+    "collectedAt": "2026-11-25T10:39:36.271Z"
+  },
+  {
+    "id": "fd0c80cde478d0f2",
+    "title": "펄어비스, '검은사막' 모험가와 인도네시아 재난 피해 학교 복구 지원",
+    "link": "https://www.etnews.com/20261125000273",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T03:07:14.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "4cc254acb12089b6",
+    "title": "크래프톤, 배틀그라운드 시즌형 음악 프로젝트 'THE SQUAD' 공개... 첫 주자는 아이브",
+    "link": "https://www.etnews.com/20261125000270",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T03:05:14.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "ccd02a975094aa8a",
+    "title": "게임 '국가전략콘텐츠자산 1호' 추진... 김성회, 게임산업 특별법 2건 발의",
+    "link": "https://www.etnews.com/20261125000266",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T02:57:21.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "0410370167416ea9",
+    "title": "6개국 게임산업 관계자 부산에 모였다... IP·인재 육성 국제협력 논의",
+    "link": "https://www.etnews.com/20261125000257",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T02:45:40.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "b0b6e4bb8a04d789",
+    "title": "시프트업 자체 AI 번역 'COZY', 국제 기계번역 대회 최상위 그룹 선정",
+    "link": "https://www.etnews.com/20261125000254",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T02:43:35.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "584216ddaf2b7c33",
+    "title": "게임이용자협회, 강유정 문체부 장관 후보자 지명 환영... “이용자 목소리 반영 기대”",
+    "link": "https://www.etnews.com/20261125000247",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T02:35:02.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "b66c8996de3564ce",
+    "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
+    "link": "https://news.hada.io/topic?id=37812&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T02:33:32.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "4e83318260b5a0b3",
+    "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+    "link": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T02:20:17.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "1380acaab8c86c59",
+    "title": "농심 레드포스, 한국 대표로 '2026 델타포스 인비테이셔널' 출전",
+    "link": "https://www.etnews.com/20261125000224",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T02:07:51.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "db0104e44faf3df7",
+    "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+    "link": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T01:34:23.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "743db29e06a0697c",
+    "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
+    "link": "https://news.hada.io/topic?id=37807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T01:20:02.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "9855f2c8bbcf9ea7",
+    "title": "2026년 기업용 AI 현황",
+    "link": "https://news.hada.io/topic?id=37806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T01:10:02.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "41831c7da2e50ec2",
+    "title": "KT·LG전자, 6G 핵심 기술 검증…데이터 업로드 용량 4.9배 확대",
+    "link": "https://www.etnews.com/20261125000153",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T01:06:31.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "2b31f3362ae0361d",
+    "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
+    "link": "https://news.hada.io/topic?id=37804&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T01:00:03.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "61205623ed34ca22",
+    "title": "Cloudflare가 기반 인프라의 미비점을 가림",
+    "link": "https://news.hada.io/topic?id=37802&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T00:38:52.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "c10297cb8556d6aa",
+    "title": "KT엠모바일, 생활밀착 부가서비스 '온가족 건강케어' 출시",
+    "link": "https://www.etnews.com/20261125000110",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T00:37:51.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "c0dd966ea7480f4e",
+    "title": "iPod Nano 5G 해방하기",
+    "link": "https://news.hada.io/topic?id=37801&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T00:35:52.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "d4eb4cec28dc09e4",
+    "title": "LGU+, 30일까지 유튜브 프리미엄 '유독' 상품 구독 50% 할인",
+    "link": "https://www.etnews.com/20261125000105",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T00:31:28.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "5fab539f012f8f21",
+    "title": "MailFlow - 여러 이메일 계정을 한곳에서 관리하는 셀프호스팅 웹메일",
+    "link": "https://news.hada.io/topic?id=37800&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T00:30:02.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
+  },
+  {
+    "id": "ff17213e9770d7c9",
+    "title": "로데슈바르즈, 삼성전자와 손잡고 AI 기반 6G 통신·센싱 융합 기술 검증",
+    "link": "https://www.etnews.com/20261125000096",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T00:22:57.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "3e131562087bd4c4",
+    "title": "LGU+, 보이스피싱 위험 가족에 알린다…익시오 알림 출시",
+    "link": "https://www.etnews.com/20261125000092",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T00:17:57.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "3493b5c108d0e9d2",
+    "title": "샤오미코리아, 사진 공모전 연다",
+    "link": "https://www.etnews.com/20261125000088",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T00:15:45.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "61e58a17b22151d4",
+    "title": "KT, 대한민국 정부혁신박람회 참가…5G 정부망·AI 에이전트 선봬",
+    "link": "https://www.etnews.com/20261125000085",
+    "source": "전자신문",
+    "category": "it",
+    "pubDate": "2026-11-25T00:12:49.000Z",
+    "collectedAt": "2026-11-25T10:39:36.268Z"
+  },
+  {
+    "id": "bbbad2dcc361cda5",
+    "title": "데이터 표현을 위한 Lua",
+    "link": "https://news.hada.io/topic?id=37799&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-25T00:01:59.000Z",
+    "collectedAt": "2026-11-25T10:39:36.269Z"
   },
   {
     "id": "2504832b67a56e00",
@@ -342,15 +1935,6 @@
     "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
-    "id": "fd54adba6f3ddfb0",
-    "title": "앤트로픽 주가 상장 나흘 만에 공모가 밑으로",
-    "link": "https://www.etnews.com/20261125000068",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T22:38:33.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "7de3d2ad51dce800",
     "title": "Ternary Bonsai 2.5 27B - 5.9GB 크기를 유지하며 에이전트 코딩을 강화한 로컬 AI 모델",
     "link": "https://news.hada.io/topic?id=37796&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
@@ -657,24 +2241,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "248efd754aeca955",
-    "title": "[속보] 앤트로픽 6.54% 급락…상장 4거래일 만에 공모가 하회",
-    "link": "https://www.hankyung.com/article/2026112581447",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T21:18:59.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "cb94dfefef495bbf",
-    "title": "[속보] 엔비디아 5.86% 급락…전날 31% 폭등 하루 만에 반락",
-    "link": "https://www.hankyung.com/article/2026112581417",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T21:18:22.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "1e04b8477a8d84e5",
     "title": "K리그2 파주FC 운명의 일주일…회신 없으면 라이선스 박탈 심의",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zdnlEajB5d09sS0p1cm9yNEVXWmdZMmZpaWdDVUxUNjNHZnd3RjFFX2l2QklkNHZWRUpQSFdMN3JhZ0hsRVdpN2VQcGV5U1hpaHp6cQ?oc=5",
@@ -691,42 +2257,6 @@
     "category": "society",
     "pubDate": "2026-11-24T21:02:23.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "0b0efc26e41535eb",
-    "title": "올겨울엔 이 과일 실컷 먹겠네…크리스마스 앞두고 가격 '뚝' [프라이스&]",
-    "link": "https://www.hankyung.com/article/202611247841i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T21:00:11.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "053b07a1e360552f",
-    "title": "\"전기차 부쩍 자주 보인다 했더니\"…판매 폭증한 진짜 이유 [이슈+]",
-    "link": "https://www.hankyung.com/article/202611246492g",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T21:00:08.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "7d135d52187ecc0d",
-    "title": "'경복궁 안 가요' 돌변하더니…외국인 덕에 돈벼락 맞은 동네",
-    "link": "https://www.hankyung.com/article/2026112477671",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T21:00:06.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "53ed9cfa3c489c99",
-    "title": "보험사 3분기 순익 10조4087억원…생보 19.5% 줄고, 손보 0.9% 늘어",
-    "link": "https://www.etnews.com/20261124000350",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-11-24T21:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
     "id": "02317079c89a9ec8",
@@ -792,15 +2322,6 @@
     "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
-    "id": "7dab8b100bb25870",
-    "title": "Jetty Pro - macOS Dock을 보완하거나 대체하는 맞춤형 팔레트 앱",
-    "link": "https://news.hada.io/topic?id=37791&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "긱뉴스",
-    "category": "it",
-    "pubDate": "2026-11-24T19:35:31.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "3f622d2c56d2d009",
     "title": "카자흐스탄 국민 건강에 울리는 대사·내분비 질환의 경고",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fVUFyWVlSQkQ2cWpWUVVOc1M0cjhVZnA1SHl2U3hzNzFrcHlWTVZmYUc4N3JYX2RJZzFNbFI3dmw4LTNCRDNoSzR0Qm8yMFAyS2V6WXdrRWxvaGt6?oc=5",
@@ -808,6 +2329,15 @@
     "category": "health",
     "pubDate": "2026-11-24T19:35:31.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
+  },
+  {
+    "id": "7dab8b100bb25870",
+    "title": "Jetty Pro - macOS Dock을 보완하거나 대체하는 맞춤형 팔레트 앱",
+    "link": "https://news.hada.io/topic?id=37791&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "긱뉴스",
+    "category": "it",
+    "pubDate": "2026-11-24T19:35:31.000Z",
+    "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
     "id": "b22b46c15cb6f493",
@@ -828,15 +2358,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "c3ecf362dc1f2454",
-    "title": "[KB유니콘클럽, 기술을 사업으로⑦]트리플스퀘어, 헬로온으로 요양시설 업무 지원",
-    "link": "https://www.etnews.com/20261123000515",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-11-24T19:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "963e2aac7b4b9c3e",
     "title": "22개 조직의 Check Point 서버를 침해한 사이버 공격 캠페인",
     "link": "https://news.hada.io/topic?id=37790&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
@@ -844,33 +2365,6 @@
     "category": "it",
     "pubDate": "2026-11-24T18:33:15.000Z",
     "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "748099155ee5528b",
-    "title": "앤트로픽, ‘클로드 십’ 출시…코드 검토부터 수정·승인까지 자동화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217729",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T18:28:58.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "9a963b981b85e725",
-    "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217751",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T18:17:40.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "5012cf16ea8909ee",
-    "title": "Z.ai, ‘GLM-5.4’에 루프 트랜스포머 적용…오픈AI 이어 반복 연산 경쟁",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217728",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T18:15:58.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "6078d18147f32be2",
@@ -918,33 +2412,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "24a3f358b6655463",
-    "title": "삼성SDS, 임원 인사 AX 진용 재편…부사장 4명·상무 6명 승진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217750",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T17:15:28.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "bdd500bd07735b28",
-    "title": "젠슨 황 부활에 국내 AI 인프라 서비스 관련 주가도 반등",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217749",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T17:00:25.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "8efb775afcbeac27",
-    "title": "[게시판] KT, 육군교육사령부와 AI 기반 지휘통제체계 고도화 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217745",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T17:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "5a5e9f4ece48de6b",
     "title": "데이비스컵 파이널 8 2026: 한국 대표팀 8강전 포함 전 경기 일정 및 결과 모아보기",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGZHVUhZSTZmODF6WjFnenJuY1hjNFk5aGI0ZkZJZllFVnAxalNzbzA2X1FibGpRamlmeG00YU5ONkYxbWJkYUZxTFJ2VGxnczRHLThBUnN4WS01aVpFMlRoWmlfS0t4SFdGc2N2cVVZeXFhNlJtdmNFanNmYTN6cmNXbDNTdG42c3BZ?oc=5",
@@ -952,15 +2419,6 @@
     "category": "sports",
     "pubDate": "2026-11-24T16:59:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "c84b4af8993c2fbf",
-    "title": "AWS “클라우드 사용자, 사람 아닌 에이전트”…CPU 인프라 강화 나선다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217735",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T16:51:39.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "337d2d6f5379c09f",
@@ -999,24 +2457,6 @@
     "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
-    "id": "92bc28d0cbef9d32",
-    "title": "멤텐서·엔비디아, 기억 내장 AI ‘멤T-1.0 프로’ 공개…과거 대화 재입력 줄인다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217746",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T16:35:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "8484e42e1215e561",
-    "title": "말레이시아, 미국 제재 기업 데이터센터 제한…싱가포르도 칩 우회 차단",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217748",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T16:33:29.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "afce30a4b700624d",
     "title": "미 당국자 “미북 정상회담 성사 노력 전혀 없었다…공은 북한에”",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KVzRBTjMxTC04anZqdEg4UmRkWTNRSFl6X05LTlFTVjNoM2ZjTmNjU3hTc1M5RW1fMnBCanAxQUQ3RXhvZmNSV1R4RElJOVp1Uk5iVnNjMTZIa0c2aFkxdXpFdW50Z3paMjFOcVVMdnM?oc=5",
@@ -1026,24 +2466,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "afad40dd3cc67fe9",
-    "title": "구글, AI 검색에 월렛·드라이브 연결…결제 내역·개인 문서까지 활용",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217741",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T16:15:48.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "b9825deaf2e66237",
-    "title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217730",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T16:03:58.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "405c25484d3f7557",
     "title": "국민의힘, 경주서 ‘특검법·대법원장 탄핵’ 규탄대회",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ac3lEN0E2QWk1bU9jVm04SG5WT0JLMlhoVUVQUmU1dGNORHNKSmpUU0paTjhqcmhyRUNpNzh6ZkpUQnJKLWxOY0lzS0U1eDhMY3N6U21CcUZiejg?oc=5",
@@ -1051,60 +2473,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T16:01:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "49d4c9fdb34d807a",
-    "title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217732",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:59:07.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "ce7507bfaba70f50",
-    "title": "사상 최대 IPO 앤스로픽,며칠새 공모가 붕괴…월가는 여전히 '매수'",
-    "link": "https://www.hankyung.com/article/202611258064i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T15:55:22.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "77a51f32e4e4a240",
-    "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217747",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:55:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "cd329b686e0ac854",
-    "title": "지방소멸 대응에 AI 꺼낸 강진군…직원 72% 활용에 인사평가까지 개편",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217744",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:52:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "d02d22c518103cbc",
-    "title": "미 2개 주, 그록의 아동 성착취물 생성 문제로 스페이스X 제소",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217740",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:51:23.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "eaf6fdd25cd9d92c",
-    "title": "엔비디아 CEO 후보였던 르네 하스, Arm CEO 2033년까지 연임",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217738",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:46:57.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "89d1e2a971bfd0bc",
@@ -1132,15 +2500,6 @@
     "category": "world",
     "pubDate": "2026-11-24T15:41:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "e76d05a554a7487e",
-    "title": "오픈AI 전 엔지니어, 내부 회의 160시간 녹음…코덱스까지 활용",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217731",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:40:02.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "4ccecb2b86cebac1",
@@ -1188,24 +2547,6 @@
     "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
-    "id": "29078bab66770f3c",
-    "title": "황 CEO 복귀에 앤트로픽 주가 역주행…오픈웨이트 경쟁 부담",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217734",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:34:08.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "e51112259d5c9ee3",
-    "title": "전남광주 AI·디지털 교육에 948억원 편성…568억원은 학생용 기기 지원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217715",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:28:53.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "0b94d18ba5edaa97",
     "title": "‘비디오 판독’에 갈린 승부…대한항공, OK저축은행과 2시간51분 혈투 끝 ‘진땀 승’",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sb1hlX0ViM1RpNlZQOFpqMkdtd1pBUWNOZTROVUk1bF80Sk5FeThqN2t2OGVsbHhWbHVnZjUzRFpDTUMtVVJiRlJZMG5ad1JVRzRMc19ra05oSUJQVExEZVQtbm9RbUY5TVE?oc=5",
@@ -1213,42 +2554,6 @@
     "category": "sports",
     "pubDate": "2026-11-24T15:28:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "625716a6ec8c3034",
-    "title": "정부, 중소 제조기업 AI 도입 지원 확대…데이터 수집에도 최대 5000만원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217723",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:27:19.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "3d1b899ecae83862",
-    "title": "전남 의과 공보의 3년 새 반토막…AI 진단·전문의 원격협진 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217736",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:27:01.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "1f0832f9f2b3bba2",
-    "title": "삼성 금융 계열사 CEO 전원 유임",
-    "link": "https://www.hankyung.com/article/2026112480291",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T15:18:27.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "32be8aad3f82712d",
-    "title": "[AI 모델 신작] 호요버스의 게임 AI·엔비디아의 확산언어모델 등 7종",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217742",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T15:14:18.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "52c0a44880761fbe",
@@ -1296,42 +2601,6 @@
     "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
-    "id": "3e254b53a085b850",
-    "title": "트럼프 정부, '과잉생산' 관세 예고…한국은 괜찮을까",
-    "link": "https://www.hankyung.com/article/202611248049i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T14:46:46.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "7f6c01dc286ee7ee",
-    "title": "AI 탐지기 'GPT제로 5' 출시…\"사람 글 오판 5만건당 1건\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217739",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T14:42:57.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "2309217fcdf772b2",
-    "title": "삼전닉스 상승 폭 반토막·엔비디아 -6% 출발…'젠슨 황' 효과, 하루 만에 끝?",
-    "link": "https://www.hankyung.com/article/202611248045i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T14:41:16.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "21e98828478ddcb0",
-    "title": "월가의 AI 투자 선별…엔비디아·스페이스X 긍정 평가 [월가 업&다운]",
-    "link": "https://www.hankyung.com/article/202611248041i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T14:39:20.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "e61ec4b25a19406a",
     "title": "\"김도영, 전 세계 야구 유망주 랭킹 1위\"...벌써 후끈 달아오른 관심",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TX3hDTTc4VG5CSDMzcFVJR2FEN21Xc0IyaTNTUFJJMktTU0h3VkxycllVai1iLTh4T0hZQnlCZ19lcXFnaDIxdmVFNjBsLXJtSlBNQWRIQ2RFN2dlX3c?oc=5",
@@ -1359,48 +2628,12 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "db68a9f7f4485217",
-    "title": "2027 상용화 원년 AI 안경, '눈앞의 비서'로 쓰임새 넓힌다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217726",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T14:04:34.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "2c9149d3951574b3",
-    "title": "중국 잡는다더니 왜 우리까지?…한국 車업계 '초비상'",
-    "link": "https://www.hankyung.com/article/202611248039i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T14:01:03.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "ae3505e1af56025b",
-    "title": "벤처비트 \"페이블 5.2, 오퍼스 5.5와 버그 수정 성능 비슷…비용은 3배\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217733",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T13:57:02.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "fa6308836162705a",
     "title": "김혜경 여사 만난 권양숙 여사…\"盧·李, 모든 부분 닮아\"",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGEzaHVUWHA2MlRqc2x5UlhYV0gyck5zR1NldGRfYXQ5WWNCOWFjMU10OXlBSlVaODYwNnhHUkRoQV90OGVzWHJvMXBYRHEwd0Z5eGI5aEtHTEhKRXhhS1dCN3FFWFBQVzdzMldxRmx4eVZaVkc2MGhGRDlwU2RwSnVrSnlUN3F1UEVMeWt3S0Q?oc=5",
     "source": "조선일보",
     "category": "politics",
     "pubDate": "2026-11-24T13:51:49.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "f549fc880c2d0f41",
-    "title": "엔비디아 개장 전 거래 반락…나스닥 선물 2.1%↓ [월가 업&다운]",
-    "link": "https://www.hankyung.com/article/202611248036i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T13:40:07.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
@@ -1422,15 +2655,6 @@
     "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
-    "id": "94dc57c1dfb85473",
-    "title": "“100년의 역사를 걷다”… 광주 동명동 나무전거리, 석재 디자인으로 보행공간 재탄생",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217652",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T13:30:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "57c8971a2c02934e",
     "title": "지구 온난화로 인간 체온 견디는 치명적 곰팡이 등장",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0QWgyUXZXZ2pxRW16OTBvTWZDcjhxZjU5cEZqdUJNMjRfTXpwOVZ5UXJfcnAwNC1ZWGJRYm9QWWpRYjZXbmJQSGt1ZFdNMzgzREE0Umg1Zi13QXE2UkZrMzdLV04?oc=5",
@@ -1449,15 +2673,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "e3372dabe5e8e06b",
-    "title": "\"400만닉스는 커녕 100만닉스도 위태\"…폭락 맞춘 BNK의 경고 [종목+]",
-    "link": "https://www.hankyung.com/article/2026112475896",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T13:00:01.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "07c042c19ba948d7",
     "title": "\"2.45GHz 선택성으로 지방·타이트닝·셀룰라이트 '삼중 작용'\"… 파올로 보난(Paolo Bonan) 교수가 본 ONDA PRO",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSFp0UEhGbU05cEZQaVdaaTRDRzFzUGxWR3B0OFU2bl83b2M0eGlOS1k1TUdabzFEZHV5QU1xc3Q1Rk8xNTZPUWZ2TlpOSDhkek1wT2swUVZtZ2JQbUVGQ1hKcTdQRUZ2dFA1SWtNNnB3Zw?oc=5",
@@ -1465,15 +2680,6 @@
     "category": "health",
     "pubDate": "2026-11-24T12:53:40.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "8af7c4e3f50d5a52",
-    "title": "드론 수백만대 필요한 美국방부…GM과 포드에 손내민 이유",
-    "link": "https://www.hankyung.com/article/202611248012i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T12:47:17.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
     "id": "0e40d83e6f0dad52",
@@ -1521,24 +2727,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "ed6279b000fc6568",
-    "title": "오픈AI, 챗GPT에 'GPT-6.2 솔' 탑재…지시 수행·이미지 이해 강화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217725",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T12:13:38.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "51db2f5b69fb9bd9",
-    "title": "젠슨 황 복귀에 미 의회 초당적 반발…AI 칩 수출 규제 강화 요구",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217721",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T12:06:08.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "c56146f85b0bca2d",
     "title": "의과대학 권오빈 교수 및 정현수 교수팀, 신경세포 자극으로 느려진 위 배출 개선 확인 - 보도자료 - 뉴스 - 서울대 소식",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5OTAzUkhlTU1QbE1USU92OTRLS2h3THg2b2VYb2oyTzhGOERSZWNtcG9HRG1UMGFsbEVWdTJjRjRxZm9ISnJvVGRjR05tSWNrNUt4QVFrZUFoT1NIOHRkS2dzcw?oc=5",
@@ -1546,51 +2734,6 @@
     "category": "health",
     "pubDate": "2026-11-24T12:05:57.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "693a96f16742fd70",
-    "title": "국방정보통신협회, 제로 트러스트·AI 기반 미래 국방 보안 전략 모색",
-    "link": "https://www.etnews.com/20261124000517",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T12:05:16.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "27502a55a26f401c",
-    "title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…정부 조사는 계속",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217718",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T12:01:52.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "8340b1b2a781ef50",
-    "title": "\"한때 MZ 성지였는데 어쩌다\"…결국 4년 만에 간판 내렸다",
-    "link": "https://www.hankyung.com/article/202611247179g",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T12:00:08.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "029543b34468c55d",
-    "title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217722",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:56:18.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "83858cc5afa643bc",
-    "title": "광양경자청, 중국 유망기업 17개사 초청 미래 산업 투자유치 본격화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217727",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:54:21.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "559bf26554b16731",
@@ -1620,51 +2763,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "3e0003a46ec53f42",
-    "title": "구글, 초고온 지열 50MW 구매계약…사업자는 200MW 추가 개발 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217702",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:50:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "7fa115145ec122be",
-    "title": "멕시코 태양광, 2035년 43.8GW 전망…기존 예상치 6GW 상향",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217679",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:50:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "824c01ad6755da8b",
-    "title": "[공공 클라우드 도입 촉진사업] 데이터드리븐 '클리포' “교사 평가 업무 지원”",
-    "link": "https://www.etnews.com/20261124000516",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:45:11.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "62015d0e48c69551",
-    "title": "[공공 클라우드 도입 촉진사업] 휴스테이션 '페어리' “채용 공고부터 합격자 발표까지 원스톱 관리”",
-    "link": "https://www.etnews.com/20261124000515",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:44:12.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "e54ec466696535fd",
-    "title": "\"만약에 젠슨 황이…\" 끔찍한 상상에 트럼프도 움직였다",
-    "link": "https://www.hankyung.com/article/202611247944i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T11:38:21.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "16824230a43e2bc7",
     "title": "서구권 치매 발생률, 10년마다 13% ‘뚝’...왜 늦게 태어날수록 유리할까",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4UG5MU256Vmp1T0RiWVVyQVJNM3o2Z2MyNTVJLUhmanNIUWl1aDFhQjhucWFpLWtDTlVld1kySWVWWlVSd2txa1FTeEVEQWZCTUQ1VUNZLVpiUjQxd0VfOUdteW9pZFYtME45RF9qejdWZw?oc=5",
@@ -1683,15 +2781,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "aa4ec3a4c70f2ba3",
-    "title": "삼성전자, 2027 임원인사…반도체 인재 중용 ‘성과주의’ 재확인",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217717",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:26:32.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
     "id": "726f374e95b52504",
     "title": "‘더 글로리’ 임지연·이도현, 4년 열애 마침표…“좋은 동료로 남기로”",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BTkllRkkwekpzaWVMemdCUFVoMTh1TTdIbDZ6U3VIR09ndmJnNThaYjhGRmM3YkRSSmtfZnV5VGF1OVJCZDZlcjFxYlByREJhdjZyZ2tLOHVGeGM?oc=5",
@@ -1701,48 +2790,12 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "4b5bdd30b8ce50f0",
-    "title": "LGU+, 데이터독과 통화 에이전트 '익시오' 안정성 높인다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217719",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:23:29.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "19ad39bec348b2ac",
-    "title": "한컴, 공공기관 HWP 문서 → HWPX 변환 지원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217716",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T11:22:33.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "bf477c8d0b971a54",
-    "title": "사생활 만으로 대표이사에서 해임할 수 있나 [트러스트의 가족기업 컨설팅]",
-    "link": "https://www.hankyung.com/article/202611185048i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T11:00:04.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "deb25fee3db21a71",
     "title": "‘5·18 진압·삼청교육대 공로’ 경찰관 102명 정부포상 취소",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14cHhLYkpMeEZTSlRFdkVfUGdqNk9WTHRnanN5RVdjVTg1WW5ycGo2X1FjcXc0NlB0M2xvSlprZ3ZfLWh2eF9CdzJpbWhfWm9lbl8zV09VSEVNZVFKbUJRUTc1aEJJN25DZjFEZE9EeXVldw?oc=5",
     "source": "한겨레",
     "category": "politics",
     "pubDate": "2026-11-24T10:47:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "326cc29d3f678716",
-    "title": "못믿을 증권사들…\"하이닉스 350만 간다더니 200만원으로 뚝\" [분석+]",
-    "link": "https://www.hankyung.com/article/2026112479007",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T10:46:13.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
@@ -1809,15 +2862,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "d523f072cb2fd0b1",
-    "title": "삼성 준감위 “삼성전자 주주환원 결정, 이해상충 아냐”",
-    "link": "https://www.etnews.com/20261124000505",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-11-24T10:10:17.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "32f5b13d1cf821d3",
     "title": "보건부는 코로나19 변종 PJ.2.1에 대한 정보를 제공합니다.",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbFpSY211bk1fdUdnMXI1czROaFhieFZiY3I0VjQ5cWg2dXM0Rkl6NldONUl0cmpVcVRSeWROSVRkQjhEZDhoUTMtTGxiQ25QS1FQaXo4TVF3cGlGXzJ3QUJrZ2EtQnNtWTlOTGNoeE1PWlRqLWdNLVlxVQ?oc=5",
@@ -1854,15 +2898,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "9cb3bb76ba94c56a",
-    "title": "KB캐피탈, KB차차차에 전자계약·안심결제 서비스 도입",
-    "link": "https://www.etnews.com/20261124000503",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-11-24T09:48:11.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "3853e710d5eaf222",
     "title": "올림픽공원 측, 무단 점거 시위대 상대 가처분 신청",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mZ0VpcWdqdVNzaHVrempha21xdmUwUl82NTRBeFh5bVZkblcxX0N6M3pyZlJibFFqbUFfQ25NNnlIeXViM3p5eFNmdkF2WXZ1RmFsdE5QUElLc0hmNG1NTDlYTzRUNml3dG4teE9BMzgwNzAybHdr0gF3QVVfeXFMUHBkT3NsWDhEX1kxRFNpRld0VGxEMkcwc3I4RXVmYXhfdEJ3TGxIN2gtem5rV29saC1QTHgxeWtyeXVGYU9scmFmTGNDWHhxQi16andHRS15bWliZVo5SVh0VXgzUU5JODJBakR4VGg5eEZZQXVIZHc?oc=5",
@@ -1890,24 +2925,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "93ab3ca1ebed473d",
-    "title": "[포토] 코스피 지수 5000탈환",
-    "link": "https://www.hankyung.com/article/202611247854i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:23:27.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "55519b5f41ad6028",
-    "title": "삼성전자, '역대급 호황' 반도체서만 임원 70명 발탁",
-    "link": "https://www.hankyung.com/article/2026112477241",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:19:58.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "95c6979ab74107f4",
     "title": "초등생 숙박업소 유인 후 술 먹여 성폭행…30대 강남 학원장 구속",
     "link": "https://www.hankyung.com/article/2026112478377",
@@ -1915,24 +2932,6 @@
     "category": "society",
     "pubDate": "2026-11-24T09:19:58.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "d4ce857a2d38ca54",
-    "title": "[단독] 현대차그룹, 26일 인사 주요 CEO 유임 속 쇄신",
-    "link": "https://www.hankyung.com/article/2026112477201",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:17:49.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "59835804e7d11c79",
-    "title": "美 셰일가스전 품은 포스코그룹 \"북미 생산거점 확보\"",
-    "link": "https://www.hankyung.com/article/2026112477221",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:17:42.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
     "id": "be3cace8e9311e26",
@@ -1953,42 +2952,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "2b8ac7d0fd5f9fca",
-    "title": "\"석유 최고가격제 장기화땐 부작용…출구 전략 필요\"",
-    "link": "https://www.hankyung.com/article/2026112477231",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:15:45.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "4de9f1488485c80d",
-    "title": "EU, 하이브리드카 수입 쿼터 내달 1일 시행",
-    "link": "https://www.hankyung.com/article/2026112477251",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:15:30.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "e0ab951f022fa4ac",
-    "title": "서울시, 글로벌 AI 도시 지수서 2년 연속 2위",
-    "link": "https://www.etnews.com/20261124000498",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T09:15:25.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "9d4d35ff609b924e",
-    "title": "[단독] '빈 살만 금고지기' 사우디 국부펀드 총재 방한",
-    "link": "https://www.hankyung.com/article/2026112477181",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:14:57.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "59427a153e5b305b",
     "title": "백종헌 의원, 마약류관리법 개정안 대표발의…위해성 관리 계획 제출 의무화",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZbXdFenJsaEI4TEU0OHdZNDlSQlBwX0JUWExjU2JCZ2hWWm41UUJtNmxNTTNiWWVoSkhFMUhTT3IwRFJrZ2swZ0k5N2JkUmhBQ0tsNHVDbw?oc=5",
@@ -1996,24 +2959,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T09:14:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "d5bc3bceebb68141",
-    "title": "쿠콘, 3분기 영업익 51억원…분기 최대 실적",
-    "link": "https://www.etnews.com/20261124000497",
-    "source": "전자신문",
-    "category": "business",
-    "pubDate": "2026-11-24T09:12:02.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "ad5a19a69df938bf",
-    "title": "中 공세에 얼어붙은 산단…\"설비 15대 중 1대만 가동\"",
-    "link": "https://www.hankyung.com/article/2026112476991",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:11:50.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
     "id": "c0008980f24f9399",
@@ -2025,42 +2970,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "944773d858d1da78",
-    "title": "늙어가는 韓 고용시장…제조업 비중 사상 최저",
-    "link": "https://www.hankyung.com/article/2026112477001",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:10:46.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "9a05cd51b35c4fef",
-    "title": "우후죽순 늘어난 지방산단, 노는 땅 합치면 '축구장 3만개'",
-    "link": "https://www.hankyung.com/article/2026112477021",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:10:16.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "a4b54fa2b4298971",
-    "title": "\"잠재성장률 3% 불가능하지 않다…서비스업이 돌파구\"",
-    "link": "https://www.hankyung.com/article/2026112476811",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:09:36.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "fd0838e7c6938fde",
-    "title": "자사주 올해 팔면 과세, 내년 비과세…형평성 논란",
-    "link": "https://www.hankyung.com/article/2026112476871",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:08:38.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "bca5068a36e52288",
     "title": "AI 도입 탓에 채용공고 줄어…76% \"하반기 취업 어려웠다\"",
     "link": "https://www.hankyung.com/article/2026112476861",
@@ -2068,24 +2977,6 @@
     "category": "society",
     "pubDate": "2026-11-24T09:08:13.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "af6b6ec691a2972d",
-    "title": "\"내년 3%대 성장해도 소비 회복은 더딜 것\"",
-    "link": "https://www.hankyung.com/article/2026112476801",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:07:53.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "d6393192c59c67e8",
-    "title": "\"운 좋으면 따고 나쁘면 잃는 도박판\"…올해 사이드카 101회 [분석+]",
-    "link": "https://www.hankyung.com/article/2026112477987",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:07:25.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
     "id": "56b27e2b079f5fee",
@@ -2097,51 +2988,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "aeb2b57c99d9a5f1",
-    "title": "오천피 되찾았지만…\"AI 랠리 재개\" vs \"2~3일 더 지켜봐야\"",
-    "link": "https://www.hankyung.com/article/2026112476941",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:02:38.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "4a867aa5834e6f52",
-    "title": "'한방' 먹은 공매도…하루새 16조원 날려",
-    "link": "https://www.hankyung.com/article/2026112476961",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:01:09.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "e535e63f830f25c8",
-    "title": "한숨 돌린 K반도체…HBM 공급처 다변화할 듯",
-    "link": "https://www.hankyung.com/article/2026112476951",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T09:00:24.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "4e5f425fc1083ad3",
-    "title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217620",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T09:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "bfe76245d3f22fdf",
-    "title": "AI 전문기술 비용 따로 산정…KOSA, 사업대가 로드맵 발표",
-    "link": "https://www.etnews.com/20261124000365",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T09:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "dbbef93eaa9ac7c9",
     "title": "[‘난임 전문의’ 조정현 원장의 자자손손] 임신을 위해 직장을 그만둬야 할까요?",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ncjN2N2c2SlRNTnF0dzhYUUxkc2Y5ZHJKWjhCNEsyaGdnWmQ4M3Y3QlVTOUZXb3JqNkMzcjhaRU1pX19WODd0ZHJEMUx6Y1pDM0pPQmIwQXlZXzA1UnFBTzZhWUI4WlcwR0drUmJrMA?oc=5",
@@ -2149,33 +2995,6 @@
     "category": "health",
     "pubDate": "2026-11-24T08:58:58.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "156cc2d81227c61c",
-    "title": "은행이 '원화 코인' 주도…발행까지 1년 넘게 걸릴 듯",
-    "link": "https://www.hankyung.com/article/2026112477291",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:57:29.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "10e3880d09c7c224",
-    "title": "네이버·두나무 결합, 지분구조 손질 불가피",
-    "link": "https://www.hankyung.com/article/2026112477281",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:56:25.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "af5375936c57871b",
-    "title": "아울렛 쇼핑이 대세로…여주·김포 외국인 특수",
-    "link": "https://www.hankyung.com/article/2026112477661",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:55:21.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
   },
   {
     "id": "4ea91ff65bdd5dfc",
@@ -2205,51 +3024,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "54b50d884a19e6e1",
-    "title": "국민연금 '첫달 납부금'의 비밀 [한경 프리미엄9 TODAY]",
-    "link": "https://www.hankyung.com/article/2026112477701",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:53:17.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "119dfd6b9e54ae96",
-    "title": "두 차례 사업 실패가 이끈 소상공인 결제앱",
-    "link": "https://www.hankyung.com/article/2026112477351",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:53:07.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "723a76e5df66057c",
-    "title": "한경협, 사회공헌 '시슐랭스타 어워즈'",
-    "link": "https://www.hankyung.com/article/2026112477371",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:52:03.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "151875220a62e4b6",
-    "title": "삼표시멘트, 삼척서 김장 나눔 봉사…배추 1200포기 이웃에 전달",
-    "link": "https://www.hankyung.com/article/202611247793i",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:51:24.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
-    "id": "7c7263b8c6d4f1a4",
-    "title": "류재철 LG전자 사장, 대한전자공학대상",
-    "link": "https://www.hankyung.com/article/2026112477381",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:50:59.000Z",
-    "collectedAt": "2026-11-25T00:13:25.172Z"
-  },
-  {
     "id": "1299273f5ca0ca10",
     "title": "이석연 前 위원장, 안민정책포럼 강연",
     "link": "https://www.hankyung.com/article/2026112477341",
@@ -2257,15 +3031,6 @@
     "category": "society",
     "pubDate": "2026-11-24T08:50:38.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "ccd6b3a0ab0d8cb5",
-    "title": "[단독] 다올證 인수전, DB·유진·LF 참전하나",
-    "link": "https://www.hankyung.com/article/2026112476371",
-    "source": "한국경제",
-    "category": "business",
-    "pubDate": "2026-11-24T08:50:15.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
     "id": "52d222b3df104fbd",
@@ -2403,15 +3168,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "df27c2a32c1fa92e",
-    "title": "[포토] 휴머노이드 로봇과 함께 전달하는 전략보고서",
-    "link": "https://www.etnews.com/20261124000481",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T08:27:21.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "897b60be01a2087c",
     "title": "위성 쏘아올린 우주기업…이젠 'AI 데이터'로 승부",
     "link": "https://www.hankyung.com/article/2026112476301",
@@ -2457,15 +3213,6 @@
     "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
-    "id": "4c1ae7c1d17ea7b6",
-    "title": "한컴, AI가 읽기 쉽게 공공문서 형식 바꾼다",
-    "link": "https://www.hankyung.com/article/2026112476291",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T08:22:38.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "1bfa92766f2e680f",
     "title": "미용관광 만족도 98%…언어장벽·요금차별은 숙제",
     "link": "https://www.hankyung.com/article/2026112476191",
@@ -2482,15 +3229,6 @@
     "category": "society",
     "pubDate": "2026-11-24T08:20:51.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "53d5792fbf7718a7",
-    "title": "이한진 한동대 교수 공동 연구팀, 'IAAI 2026 종합학술대회'서 우수논문상 2편 수상",
-    "link": "https://www.etnews.com/20261124000477",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T08:19:56.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "17133b269ae7be33",
@@ -2527,15 +3265,6 @@
     "category": "society",
     "pubDate": "2026-11-24T08:13:27.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "20a054a07311e230",
-    "title": "2030 女 입소문에 200만명 몰리더니…이번엔 '블핑 리사' 띄운다",
-    "link": "https://www.hankyung.com/article/202611247537g",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T08:13:23.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "c9de86ac28ac2c28",
@@ -2583,15 +3312,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "1f08992d3da9bfc6",
-    "title": "지케스, 어드밴트와 제휴… 통합관제·후각 AI 기술 결합해 산업안전 AI 관제시장 확대",
-    "link": "https://www.etnews.com/20261124000475",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T08:11:31.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "5b46f3b50b72a441",
     "title": "부산에 제조 AX 거점 조성…美시장 공략 위한 발판 마련",
     "link": "https://www.hankyung.com/article/2026112475591",
@@ -2599,15 +3319,6 @@
     "category": "society",
     "pubDate": "2026-11-24T08:11:15.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "1ccd76cc5eb2c6dd",
-    "title": "모노플로우, 오픈AI '챗GPT 엔터프라이즈' 등록 파트너 선정",
-    "link": "https://www.etnews.com/20261124000474",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T08:11:01.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "d5f84bc7d936f441",
@@ -2655,15 +3366,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "a1f2f85b9fdc60e8",
-    "title": "[공공 클라우드 도입 촉진사업] 국내 SaaS 공공 진출 가속화…“매출·계약 증대에 큰 도움”",
-    "link": "https://www.etnews.com/20261124000473",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T08:07:35.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "ff3e936569ddfb86",
     "title": "알츠하이머병, 독성 단백질 제거하지 않아도 치료 가능",
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE80Z2lTUFRxOGIyTkh0bGd0QWZXYm5yZDFqX0tQLU5xT0ZVbVhOclRLQ0wxSmp3T2hWQWpNQWRvOVNDZ0Ry?oc=5",
@@ -2691,24 +3393,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "e127a3179d60d7f5",
-    "title": "[사설] 황제 복귀 보단, 전략적 안정성이 중요",
-    "link": "https://www.etnews.com/20261124000435",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T08:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "08b473a3eefea2ce",
-    "title": "NIPA, 금융결제원과 맞손…“금융결제 현장서 AI 반도체 실증”",
-    "link": "https://www.etnews.com/20261124000471",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:59:50.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "1d970f733c9e4c58",
     "title": "[인터뷰] 19년 경력의 강의하는 간호사 김옥수에게 배우는 치매 돌봄",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xSW16Tlo2M0xhS3VtTXF3aXJQSzh0MXAtemRiT29uVGxkYmE4Rl9ScUItcXpyWE1fOVRtS2Z4N284NzZHc05CRHRFWlpKT0VjMFdTYi1IQnFZN1RrYjNWb3VQbDkxYjRPMmg1LUNfQ3FYQQ?oc=5",
@@ -2727,15 +3411,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "644236a8c3b75be9",
-    "title": "행안부, '공공 AI 서비스 UI·UX 가이드라인' 마련…“AI와 소통 기준 제시”",
-    "link": "https://www.etnews.com/20261124000467",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:48:43.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "03bfae4cc7aac261",
     "title": "인천시의회 “문학경기장 복합 돔구장 유치” 결의대회",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MakpjbTJ1M2tzZXdyUTNyNkZna01VeHZ3cF9RbFRVa2dkWXpvQkdiMWZidTBpbGpqYlB1MXRJR2M1MWo0c040OV9GQjBVaS01MFlDSzVlaVZXd3M?oc=5",
@@ -2743,15 +3418,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T07:46:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "37a64dc1baab8fba",
-    "title": "미국도 중국도 제쳤다…\"서울이 세계 2위\" 놀라운 결과",
-    "link": "https://www.hankyung.com/article/202611247496g",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T07:45:55.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "8a501a328ef08472",
@@ -2799,15 +3465,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "dbb59ba70ce92aa7",
-    "title": "델, AMD 기반 AI 인프라 제품군 확대…단일 서버부터 랙스케일까지",
-    "link": "https://www.etnews.com/20261124000457",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:23:45.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "18c7f12597f5007e",
     "title": "“이혼이나 당하고”…윤서인 측 ”사실 적시…이승환 모욕 의도 無” 주장 [왓IS]",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFYXF5WVpreS0welQxSTVtOGhTcG9QRm5iTXg3aFlBR1luYXlaSzh4VWRnZ1gzQTRFNXByLXBSY1JRX2kyOV8zaVJLeXhkQlpGNi11X2lobXBpQUE?oc=5",
@@ -2826,24 +3483,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "26380b1749e28d88",
-    "title": "[포토] 수면상태 체크해주는 스마트 AI 아기침대",
-    "link": "https://www.etnews.com/20261124000455",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:17:17.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "c0162bb5e8acf153",
-    "title": "[포토] 헤드셋과 결합된 스마트 안경",
-    "link": "https://www.etnews.com/20261124000454",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:17:03.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "0ccd61dc684288dc",
     "title": "멸종위기 韓 고유종 '구상나무' 유전체 지도 첫 구축",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fb0dDU01WSHc4bklfUUVuRW16RFZFel9MVXBsa2FtUVRCa3ZOcG1MTFRHX0dhM2pSc1QxVW1oR1hCd3JGbnd1SVljNGZ3cE1CS0pGbQ?oc=5",
@@ -2851,60 +3490,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T07:17:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "318f7689c8a6cd49",
-    "title": "[포토] 가전 AX제품화지원센터 개소식 현판 제막",
-    "link": "https://www.etnews.com/20261124000450",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:14:49.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "dd1cb23f939552b7",
-    "title": "[포토] 2026 민관 R&D 혁신 포럼",
-    "link": "https://www.etnews.com/20261124000449",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:14:24.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "c2febc0e08042684",
-    "title": "[포토] 2026 민관 R&D 혁신 포럼",
-    "link": "https://www.etnews.com/20261124000448",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:14:11.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "adc753e1cedd0aca",
-    "title": "이글루, 개발자 콘퍼런스 개최…에이전틱 SOC 로드맵 점검",
-    "link": "https://www.etnews.com/20261124000447",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:13:59.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "98af2a9f5e5e28e7",
-    "title": "점심시간 잊은 베트남 대학생들…'AICE'로 AI 역량 키웠다",
-    "link": "https://www.hankyung.com/article/202611234075i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T07:11:57.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "8eaf221252e5c7d1",
-    "title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217711",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:10:26.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "118c471841b6243f",
@@ -2925,15 +3510,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "59adb502350b9610",
-    "title": "글루시스, 글로벌 고성능 스토리지 성능 평가 'IO500' 세계 3위 달성",
-    "link": "https://www.etnews.com/20261124000442",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:06:55.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "22d1f92f2b72f1c7",
     "title": "[공식] 제니, 결국 칼 뺐다…AI 허위 양상물 제작·유표 계정 형사고소 (전문)",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM29EcXRhR2hmblM4WHZJRU1TWEd6em9UYlZ6Y0FVc21HVTh4MzhSN2hrSFlBdkU3dTlvZUZXbm55OUNsVXhQQldVdG5COHpxTVJfbXFERi1vcm5XMU1xUjZSWTJEQQ?oc=5",
@@ -2950,87 +3526,6 @@
     "category": "world",
     "pubDate": "2026-11-24T07:01:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "e60277b4c669c7e8",
-    "title": "[11월23일] 'GPT-6'가 로봇의 두뇌까지 맡기 시작했다는 것의 의미",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217684",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
-  },
-  {
-    "id": "c76b6861078b38f4",
-    "title": "[AI와 디지털전환] 트럭을 샀는가, 일을 바꿨는가…지방 AX의 시험지를 바꿔라",
-    "link": "https://www.etnews.com/20261124000208",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "e2953317ff0d0657",
-    "title": "[제13회 대한민국 SW제품 품질대상] 허양호 베스핀글로벌 코리아 대표 “안전한 공공 AX 이끌겠다”",
-    "link": "https://www.etnews.com/20261124000194",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "fc76cf883df3fe57",
-    "title": "[제13회 대한민국 SW제품 품질대상] 우수상-모빌리티원 'M1UCS'",
-    "link": "https://www.etnews.com/20261124000150",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "fe7f377bdafa0b85",
-    "title": "[제13회 대한민국 SW제품 품질대상] 우수상-이씨스 'LTE-V2X 한국형 교통 관제시스템 v1'",
-    "link": "https://www.etnews.com/20261124000139",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "b107230b1e6e7ed5",
-    "title": "[제13회 대한민국 SW제품 품질대상] 최우수상-와탭랩스 '와탭 에이아이 옵스 스위트 V3.0'",
-    "link": "https://www.etnews.com/20261124000136",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "66add958e79189ed",
-    "title": "[제13회 대한민국 SW제품 품질대상] 최우수상-아키스케치 '아키스케치'",
-    "link": "https://www.etnews.com/20261124000133",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "68dd76bec81c76a8",
-    "title": "[제13회 대한민국 SW제품 품질대상] 우수상-안랩클라우드메이트 '시큐어브리지 v2.0'",
-    "link": "https://www.etnews.com/20261124000114",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "d39631680052a2e5",
-    "title": "[제13회 대한민국 SW제품 품질대상] 대상-베스핀글로벌 '헬프나우 에이전틱 AI 플랫폼'",
-    "link": "https://www.etnews.com/20261124000028",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T07:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "2cae4cc12d811397",
@@ -3078,33 +3573,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "bd61b394fbb94f1f",
-    "title": "네이버웹툰 AI 추천모델, 클릭 16%·유료회차 도달 13% 늘렸다",
-    "link": "https://www.etnews.com/20261124000439",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T06:48:46.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "b983a26be43fda62",
-    "title": "안종배 국제미래학회장 저서 '피지컬 AI 로봇', '올해의 저술' 부문 국회 문화체육관광위원장상 수상",
-    "link": "https://www.etnews.com/20261124000438",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:48:36.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "4033431248247948",
-    "title": "\"치이카와 정품 구해요\"…중국 앱 찾는 2030 '할인'에 꽂혔다",
-    "link": "https://www.hankyung.com/article/202611246851g",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T06:44:54.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "0cc7fef76aa64785",
     "title": "장동혁 \"한동훈, 보수 궤멸의 중심‥당당하면 소송 제기하라\"",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ib3hOQXVPUnVLekhfWW1scWdpanQ5cHRDUk92WGFYcFZNTjc0cm9SMzUzS0NMVHdINTRtd3l6aHRlc2d3V1VjN1A2eWptSWtyN0pPdi1hTG1YaWZUQjEwTVZiLW16a0tDRWNCMkZ5czE4Uzg3THhzWdIBeEFVX3lxTE5oclBHN1pIaFo5VGpfbVpLYzFRZ1FvSl95Ni12WDV5ZGF4SnJBemRGWmhISTc0dmxCWFRMNzRlTjBIb19GaUZCSXBvYXJWXzF6RktVWS1tVWN5Y3psQlYzVGpmNC1wV1hxNUdxUFZSYm1pVGFCZzVsSA?oc=5",
@@ -3121,33 +3589,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T06:34:12.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "58c53689e4f8dd10",
-    "title": "[포토] 2026 민관 R&D 혁신 포럼",
-    "link": "https://www.etnews.com/20261124000427",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:33:06.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "29d134490a5d90aa",
-    "title": "[포토] 2026 민관 R&D 혁신 포럼 전략보고서 전달에 함께 한 이그리스-C 휴머노이드 로봇",
-    "link": "https://www.etnews.com/20261124000425",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:32:33.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "95e2261e88a7e4d3",
-    "title": "[기고] AI가 리만 가설을 풀었다면 수학은 끝난 것인가",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217706",
-    "source": "AI타임스",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:30:47.000Z",
-    "collectedAt": "2026-11-25T00:13:25.164Z"
   },
   {
     "id": "63ac93a238d70986",
@@ -3177,15 +3618,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "bc3bba26c234e63b",
-    "title": "인터엑스, 코스닥 상장으로 '자율제조' 테마 연다…피지컬 AI·로봇·AI 에이전트, 하나의 이름으로",
-    "link": "https://www.etnews.com/20261124000411",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:12:18.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "f7e997ec0a63ce15",
     "title": "20년 만의 ‘에이즈 예방법’ 전부개정안…“처벌 삭제 환영하지만 차별 조항 보완해야”",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaG1HOVB3MjZiM3F5VkVnMXpZYjFuS0NMOG5rRFJpTlRqby1xTmREZ1pvUlZ5Rm5OR09RNW5fUUp6LXJ0ZmlPc2JjdkhaOWwxakduQVRKb2pBRy1jYWpxdVNHTVdDU2gyVzRSSnMweXZjTUsxYXE3WnNvUENiZzBCM2VZTTVfUnBJajhIWW5jQ0ZjYzFaRy0yX2wxYllqbnBBUTlvMjE1TDBkQdIBX0FVX3lxTE91bm1SM3hNVFVaUkQxMXJkSkpnS2VYM3VLZFlXd19JV1Zuc1pvR3VKeUxia3dQeTVqRlVLTmFWeEhpbUpzYlBkMWt0VE9FdTdrQ3d4aEt6T1lqTzBrZTRR?oc=5",
@@ -3193,15 +3625,6 @@
     "category": "health",
     "pubDate": "2026-11-24T06:12:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "2c7c1be6e9d1496c",
-    "title": "KT, 개보위 과징금 불복소송 확정…법률대리인 태평양 선임",
-    "link": "https://www.etnews.com/20261124000409",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T06:08:35.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "77c240ef3158754c",
@@ -3231,24 +3654,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "f1fd6aca846de3c3",
-    "title": "엘앤씨바이오, 싱가포르서 '리투오 V' 공개…ECM 제품군 확대",
-    "link": "https://www.hankyung.com/article/202611247142i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T06:04:57.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "a38aacc6aa88371e",
-    "title": "[포토] 헤드셋과 AI글라스가 결합된 스마트 헤드폰",
-    "link": "https://www.etnews.com/20261124000408",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:03:10.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "77afa0975d1e69ed",
     "title": "식사 직후 계단 1분…포도당 섭취 뒤 혈당 변동 폭 줄어든 이유",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKTy00X0RPWXViRW9INE1VQ0lmLWxqYmxBOEpmdlROUnhmNEcxVHQwNkpGMjFOd3BKTENJejVJcWQ2T3puUFVDUm5BQjlMYUIxUjFn?oc=5",
@@ -3256,33 +3661,6 @@
     "category": "health",
     "pubDate": "2026-11-24T06:00:14.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "02b7c95fa8b381df",
-    "title": "[미리보는 소프트웨이브 2026] 〈3〉 국내 대표 SW 기업 총출동…'일하는 AI' 선보인다",
-    "link": "https://www.etnews.com/20261124000224",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T06:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "1bd5cef573b88cae",
-    "title": "SKT 'AI 케어', 2026 시슐랭 스타 최종 10선 선정…산업부 장관상 수상",
-    "link": "https://www.etnews.com/20261124000104",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T06:00:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "9d524ebbcd260fc9",
-    "title": "휴젤, 창립 25주년 글로벌 심포지엄…K-에스테틱 시술·제조 역량 공유",
-    "link": "https://www.hankyung.com/article/202611247099i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T05:59:58.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "3395fdab4bc010e0",
@@ -3339,24 +3717,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "cd52cbe301b2c246",
-    "title": "100% AI 아이돌 '서리아' 공개…지로, AI 콘텐츠 IP 사업 본격화",
-    "link": "https://www.etnews.com/20261124000391",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T05:51:34.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "d6033f5941f62246",
-    "title": "\"넷플릭스가 걸그룹도 만든다\"…글로벌OTT, K예능 벤치마킹 공세",
-    "link": "https://www.hankyung.com/article/202611246864i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T05:49:37.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "a38b849dc2dd9c02",
     "title": "이승환에 \"이혼이나 당하고\"…윤서인 측 \"모욕 의도 없었다\"",
     "link": "https://www.hankyung.com/article/202611246940H",
@@ -3366,15 +3726,6 @@
     "collectedAt": "2026-11-25T00:13:25.174Z"
   },
   {
-    "id": "9f4d5e17e33bb113",
-    "title": "비만약 '에페' 2주 만에 100억어치 완판…가격 경쟁력 통했다",
-    "link": "https://www.hankyung.com/article/202611247040i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T05:47:21.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "3d5370f0278ef693",
     "title": "투표지 분류기 '성능 미달'에도 전량 납품…선관위특검, 압수수색",
     "link": "https://www.hankyung.com/article/202611246977i",
@@ -3382,15 +3733,6 @@
     "category": "society",
     "pubDate": "2026-11-24T05:41:26.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "4f0b776803d217ef",
-    "title": "엔키화이트햇, 3년 내 매출 3배 성장 자신",
-    "link": "https://www.etnews.com/20261124000380",
-    "source": "전자신문",
-    "category": "ai",
-    "pubDate": "2026-11-24T05:40:47.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "e1e43800bd6f9e20",
@@ -3429,15 +3771,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "e5e46dbf3f09a139",
-    "title": "AI 음원 쏟아지는데 판별법은 제각각…음원 플랫폼 기준마련 서둘러야",
-    "link": "https://www.etnews.com/20261124000358",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T05:21:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "8bc4fac4ace74f4e",
     "title": "AI 음원 쏟아지는데 판별법은 제각각…음원 플랫폼 기준마련 서둘러야",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZSjdWSHFlc0VweXFtTUoyUmFEVk8xZkU5WVgwcVN6SmNZbWQ2aDlaZkNNOWpnSS1WN1BfNEFHdUkyejhXQlJTX0lzaEFDQQ?oc=5",
@@ -3445,15 +3778,6 @@
     "category": "entertainment",
     "pubDate": "2026-11-24T05:21:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "1eec813dafc434be",
-    "title": "“셀트리온, 내년 신제품 성장 지속…제약·바이오 톱픽”",
-    "link": "https://www.hankyung.com/article/202611246906i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T05:10:35.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "200490081757e403",
@@ -3483,24 +3807,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "e1cbb92373f0548a",
-    "title": "\"네이버 아이디 좀 달라\" 하소연까지…'뉴토끼 저승사자' 정체",
-    "link": "https://www.hankyung.com/article/202611233335i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T04:59:14.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "26b46251eda61d50",
-    "title": "엔씨 실적 개선 이끈 '리니지 클래식'... 시즌2 '트리아'로 장기 흥행 발판",
-    "link": "https://www.etnews.com/20261124000345",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T04:58:44.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "1157c92c3f6af367",
     "title": "‘중처법 위반 혐의’ 세아베스틸 전 대표 1심 집행유예",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05aG1vcjFVLXczZDNVc0ZpdVVObzA2TVJ3TUdWTDNCLTdLM2VERFBfWUZra09PNUJ3bGVOendaQW04YWlOaDlEUGwtaGJQNUhLbXlyd0o3VW5IajA?oc=5",
@@ -3528,24 +3834,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "c548a973613b9ced",
-    "title": "[6G 비전페스트, 미래를 열다]〈2〉6G 혈관 뚫는 K광통신…글로벌 시장 정조준",
-    "link": "https://www.etnews.com/20261124000322",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T04:47:05.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "e8253765a967a243",
-    "title": "3분기 중동 스마트폰 출하량 29% 급감…삼성 점유율 45%로 확대",
-    "link": "https://www.etnews.com/20261124000321",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T04:46:31.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "66d006ac52a53960",
     "title": "경찰, 강은희 대구교육감 선거법 위반 송치",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVzdVhscmJmTGhEbkpEZ1l1S3NmUWI1QXQ5NFhmeXNDSnllYV9mLWU1OFRtTm1NOEhSTGZROWdISkZvRzhIVVlESTV0VVdsbW52RDRSZjlJRHctOTVueXU2UngtUERKOU5ST3pnNEh0ejBtNU9JdjktdkFrQzcwVlB3aVJvZw?oc=5",
@@ -3553,15 +3841,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T04:43:28.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "d2a98ba555e7d530",
-    "title": "한미약품, 비만약 '에페' 초도 물량 완판에 5%대 강세",
-    "link": "https://www.hankyung.com/article/202611246809i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T04:41:25.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "b40eb58059fa37dd",
@@ -3580,15 +3859,6 @@
     "category": "sports",
     "pubDate": "2026-11-24T04:40:48.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "cb06f19c8aaf2b14",
-    "title": "[2027 삼성전자 인사]HBM 성과 보상·파운드리 인재 중용…로봇·AI 전진 배치",
-    "link": "https://www.etnews.com/20261124000316",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T04:36:52.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "ba5a3a0df921f517",
@@ -3616,15 +3886,6 @@
     "category": "health",
     "pubDate": "2026-11-24T04:29:52.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "ee537d860aaa5457",
-    "title": "엠게임 '귀혼키우기' 정식 출시... 사전예약 100만명",
-    "link": "https://www.etnews.com/20261124000298",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T04:21:35.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "5ffdf56043c12afa",
@@ -3679,15 +3940,6 @@
     "category": "entertainment",
     "pubDate": "2026-11-24T03:27:51.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "7db67838c2f14fbf",
-    "title": "펄어비스 '붉은사막 인핸스드', TIGA 어워드 '최고 액션 어드벤처' 수상",
-    "link": "https://www.etnews.com/20261124000275",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T03:27:30.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "8270a520f631f72b",
@@ -3762,15 +4014,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "2df64d50b16ce7e2",
-    "title": "\"AI에 돈 쏟아부었는데 남는 게 뭔가\"…기업들에 닥친 숙제",
-    "link": "https://www.hankyung.com/article/202611246601g",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T02:38:56.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "7a03ba09a34b4575",
     "title": "\"사랑합니다\" 서툰 한국어도 우아하게… 재즈 디바 다이애나 크롤의 귀환",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQm52Y19UZnMxczdseHJVbUd0ZTlkYlBZYnM3M2NPd3lRRXVZemY4dWppMG1BYjh0RjdnQzloWlF1SWROOU5zZEoyV2M4SzZBT2QwTVA4UFF6NmRGX0xzOURoOVU4cVd0RnJnbFBwbVdVOU45ZDNybHVka3kxVHk2WkVFUmxFTktnNnRpU3dfVlhwbzAw?oc=5",
@@ -3780,33 +4023,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "8bbd073658b28f8c",
-    "title": "'고려시대 여전사'가 운동복을?…250만뷰 터진 '수상한 아이돌'",
-    "link": "https://www.hankyung.com/article/202611246503g",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T02:31:01.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "11ae4349e9a3ae49",
-    "title": "플래직 '포켓몬 30주년 오케스트라 콘서트', 28~29일 KBS홀서 개최",
-    "link": "https://www.etnews.com/20261124000253",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:29:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "df8e41fd5e7ad326",
-    "title": "카카오게임즈 '오딘Q', 내년 1월 26일 한·대·일 동시 출시",
-    "link": "https://www.etnews.com/20261124000247",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:27:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "156f86c607472212",
     "title": "사이언스타임즈/사용자메뉴/과학기술/항공·우주",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2xTLXFSRlhmQ2RSMFFvYjJSeF9BMnF3Ymdvek1CYWNkVXRqR082QUJ3aEhtcGE0eFVzNXR6WC1zbWdwUGpXSEN5M2RkaFJWa3Jka0FrN0dlMzBTV19RRmFaOXNyXzJhNjhaS044M0dMdzhYUFJoYkcwVk16SS0ydkJlclk1dnhYR1QtOVUtWEJFaU5ZVVdCbHBwWHFfRktVVjlXd1J3N1RKdE9UWnlTejdxa1RiemVqZHF3X2cxZ3E2VmM?oc=5",
@@ -3814,15 +4030,6 @@
     "category": "health",
     "pubDate": "2026-11-24T02:26:38.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "bf84986e227ae10e",
-    "title": "“착륙하자 메신저가 우수수”…멜버른서도 막힘없는 SKT 로밍",
-    "link": "https://www.etnews.com/20261124000244",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:24:32.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "0e8466709b591030",
@@ -3843,24 +4050,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "4ddab2a6af146d49",
-    "title": "학산문화사, AGF 2026서 '윈터 페스타'... 인기 IP·원화 전시 선봬",
-    "link": "https://www.etnews.com/20261124000239",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:21:57.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "262f0786e800f827",
-    "title": "게임 '국가전략콘텐츠자산' 지정 추진... 국회서 정책토론회",
-    "link": "https://www.etnews.com/20261124000232",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:15:56.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "f7b95dcc4093e973",
     "title": "美 해상봉쇄에 이란 물류대란…국경엔 42㎞ 화물차 행렬",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bkxTVURYYnJIN0ZEckRHN0hTMC04UmVHRVFRSUdmdXFjWFF2RjhmT0doUFRLUll1YUZ0bktUMjJzYjMzQWw4T0V2aThuVzhYcEMwN0dfN2tSTGPSAWBBVV95cUxQNDJnaXZiVG5TYWRMUE5Uc013WmdnZ2VPNVUyS0d5eWtKTDdGUnQxQTBKYWJSN0xMZTJWc0oxeFVIU2NFTExhLXNKMkppcVk3UFUxVmlMVzhHc1VwWE1uaW0?oc=5",
@@ -3877,24 +4066,6 @@
     "category": "entertainment",
     "pubDate": "2026-11-24T02:11:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "e6cdd01956284649",
-    "title": "국립중앙도서관-저작권위, 생성형 AI 시대 도서관 저작권 교육 정례화",
-    "link": "https://www.etnews.com/20261124000220",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:08:01.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "4006c5560b78f2d6",
-    "title": "스마일게이트 퓨처랩, 비버롹스 첫 공식 팬 크리에이터 '비버 프렌즈' 선정",
-    "link": "https://www.etnews.com/20261124000213",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T02:01:59.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "62daef22e2fc7acc",
@@ -3924,33 +4095,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "4248e77324b90c2a",
-    "title": "“문화재 보호에 진심”... 라이엇 게임즈, 고려불화 '아미타팔대보살도' 보존처리 지원",
-    "link": "https://www.etnews.com/20261124000211",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:59:33.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "48293302de5f0bf7",
-    "title": "위메이드플레이 플레이링스, 서브컬처 신작 '소울시프트 리:본' 한·일·대만 출시",
-    "link": "https://www.etnews.com/20261124000210",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:57:09.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "87dbdf2a0dd3aa35",
-    "title": "아이언메이스 '다크 앤 다커', 지스타 2026서 1000명 체험",
-    "link": "https://www.etnews.com/20261124000207",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:55:29.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "2627740c7fe37405",
     "title": "인도, 네팔 대홍수 복구에 2조원대 지원…中도 손길",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zdXVMc1huZlBhdjZ2eld0ZENPRkxoT2RudzJMODY2NE54WHlPZ05KREdOT2hDVFhRUjRSU2toOEZKVy1wanVkVE85MUpjSTk5SGdzelZGZVBvalBLTkwxanFWYTNvSjA?oc=5",
@@ -3958,24 +4102,6 @@
     "category": "world",
     "pubDate": "2026-11-24T01:51:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "671bad7361399c2a",
-    "title": "넥슨 '메이플스토리 이스케이프', 두 달 만에 누적 체험객 1만명 돌파",
-    "link": "https://www.etnews.com/20261124000202",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:50:26.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "f7c5a325138b81b0",
-    "title": "라인게임즈 '대항해시대 오리진', 원스토어 정식 출시",
-    "link": "https://www.etnews.com/20261124000199",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:48:12.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "40c8debfa679d9e1",
@@ -3994,15 +4120,6 @@
     "category": "politics",
     "pubDate": "2026-11-24T01:45:49.000Z",
     "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
-    "id": "3bd4bea47fa97141",
-    "title": "T1, 지스타서 '오버워치 챔피언스' 아시아 정상... 광저우 월드 파이널 1번 시드",
-    "link": "https://www.etnews.com/20261124000191",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:41:22.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "70a74e5e8a8a0f76",
@@ -4050,15 +4167,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "e46a4e496f43cf21",
-    "title": "KT, 구글AI·휴대폰 보험 혜택 결합요금제 출시",
-    "link": "https://www.etnews.com/20261124000164",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T01:24:38.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "2607d88d6f6bd20d",
     "title": "박지윤 남사친, 3000만원 판결에 상고…상간 소송 대법원 간다 - 머니투데이",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vSHBjOThWV2ZqODd1clpHd1BzLWhFZEtqM2ZRQVJQemhhVWFXVDViR0VnanhFMWVmS2pQU3JFXzFNb2tHTGJwMWIxV1pDNUJ6NzBzN1Z0MERhMTRwM2E0N0UzN1hIaFpDUWtR0gFwQVVfeXFMTXA3NlZ3MGRJdHlwWEtWQnpDMUF4NG4yenZEa1Ffa3h3SHhUQWZiN2pSNGZjNlFLaVlERGQxdDZhamtWWWh5TUJ5WXFRenlVSHBMV2hjRkFDNFRQWW54R0lDcFhKdXFLNVcwTGM0aTN6WA?oc=5",
@@ -4077,15 +4185,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "3a22989eb4d559e0",
-    "title": "[해외 바이오 기업 인터뷰] 아스트라제네카 “사망 원인서 암 제외되는 세상 열 것… 한국과의 협업은 최우선 과제”",
-    "link": "https://www.hankyung.com/article/202611029696i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T01:20:16.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "83f60799bece3f82",
     "title": "'청담부부' 정우성-이정재, 결별 수순…정우성 아컴 지분 매각",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwS3FZZmIyZERhV2Z0MWs3YnVFM1pnS2VFS2gtOElFNzFaeVJySDZya0gzVFU2Ri1fTVZnc0x5OXZ2NndZeERZOGV4dVpobGxZVXBaS2N2OEw3TFJYcldRRVJTd2x5TXZtMkE?oc=5",
@@ -4093,15 +4192,6 @@
     "category": "entertainment",
     "pubDate": "2026-11-24T01:19:26.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "3f66484b85a0c42b",
-    "title": "[투자 라운지] 이승우 데브시스터즈벤처스 상무 “성장 잠재력 큰 韓 메드테크 산업 초기 투자로 기업 성장 지원”",
-    "link": "https://www.hankyung.com/article/202611029651i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T01:11:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "c41d4e7312957f63",
@@ -4131,15 +4221,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "0caa4bd4d902a142",
-    "title": "넥스아이, ADC 신약 'NXI-S301' 국가신약개발사업 선정",
-    "link": "https://www.hankyung.com/article/202611246207i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T01:06:12.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "6609555c9a7ce22c",
     "title": "울산울주세계산악영화제, 단편 다큐멘터리 제작팀 선발",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3X1ZwdzRRNEhNY0pjd0VQdUZELWNLbGJMMDYtaWhYNnRUYldxdjBZcDVqYTdONU1CSEtkbmgwQWNZeU5GdU9WdGtHX084amRqcEdsdGFoZ3UwOFXSAWBBVV95cUxOMjJaUS1WZzEtVk5pc21pVXNLUnd5UHZDNDVROEZZbi1uamtVYzZybnV0ZVFFb0djN1dMMHVodmEzbk9TV3lCbGJVd2dyMXZTR2hKYWwtdlBqanBYc09UMmo?oc=5",
@@ -4147,15 +4228,6 @@
     "category": "entertainment",
     "pubDate": "2026-11-24T01:03:46.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "aaac75f3ae3980db",
-    "title": "\"메디톡스, 해외 보톡스·필러 사업 성장 전망 … 소송 끝나면 진짜 돈 번다\"",
-    "link": "https://www.hankyung.com/article/202611233206i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T01:00:06.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "a9a84a385df83853",
@@ -4167,15 +4239,6 @@
     "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
-    "id": "afff2bb3ed7d15ae",
-    "title": "\"불황보다 무섭다\" 취준생들 '한숨'…AI에 가로막혔다",
-    "link": "https://www.hankyung.com/article/202611246093g",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T00:49:15.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "112b3a6bbc604b8d",
     "title": "\"부키리치, 24일 GS칼텍스전 출전은 어렵다\" 권순찬 정관장 감독 `신중론`",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfbzhkZXlhT2d5VC1wZlV2ckdUT0toYk5JN2lIM0NpSmJEVy1HMllka1dhM2U1ZjhDYW9EZHlNSzFjb25TMTVtdTJ4ZnZHTWdMU2dsT3Rrd1QzRGV0OENibXhVcGRjUQ?oc=5",
@@ -4183,33 +4246,6 @@
     "category": "sports",
     "pubDate": "2026-11-24T00:42:40.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
-  },
-  {
-    "id": "a2f5b7038f55ad11",
-    "title": "\"정품 치이카와 사고 싶어요\"…한국 2030 몰려간 곳 어디길래",
-    "link": "https://www.hankyung.com/article/202611245971i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T00:35:54.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "9a20afb4e48faf2c",
-    "title": "LG유플러스, 유튜브와 리사 다큐멘터리 상영회 개최",
-    "link": "https://www.etnews.com/20261124000082",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T00:31:55.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "19147025d7787860",
-    "title": "LG U+, 데이터독과 손잡고 익시오 서비스 품질 높인다",
-    "link": "https://www.etnews.com/20261124000080",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T00:30:56.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "c1874a8f6b1e0b6d",
@@ -4230,15 +4266,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "e4076a712112fae2",
-    "title": "[ICT시사용어] ITU 전권회의",
-    "link": "https://www.etnews.com/20261124000074",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T00:26:55.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
     "id": "332fc72683526f52",
     "title": "영·EU '브렉시트 브레인스토밍' 나섰지만…갈 길은 첩첩산중",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDBhQjI2QVg1RklrVWQ1TWNFUFhGOUg5cTloajV2YjZwTWVkQVd3NE1rRnloaUtOTXNvYTlENkhnbWg2eEY0ZFh2a1RRY3pSamt1ZHY4cmJ3X0FzLUhubGppMk8wTTYzdkZlQkxZcmF0bTBWTHd1X19wMldhVU9hdEtWOVVRQm5XYmlvRmNZV1pybW1idXJpckkzZGlEOFZXa1c2aTRmTWd3QzE3d2tNTUNHMXVzdVJ2QjdhZkJ1amt6c2RHYkxfdHpKT0tiZkFuaDQxVlh3?oc=5",
@@ -4246,33 +4273,6 @@
     "category": "world",
     "pubDate": "2026-11-24T00:14:54.000Z",
     "collectedAt": "2026-11-25T00:13:25.174Z"
-  },
-  {
-    "id": "0a8aa731881327fa",
-    "title": "\"AI 쓰면 데이트 안 할래요\"…AI 기업 직원까지 퇴짜 맞는 이유",
-    "link": "https://www.hankyung.com/article/202611245837H",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T00:10:13.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "80fc051e08a058b7",
-    "title": "KT, 국방 AX 기술로 육군 차세대 지휘통제체계 지원",
-    "link": "https://www.etnews.com/20261124000046",
-    "source": "전자신문",
-    "category": "it",
-    "pubDate": "2026-11-24T00:05:01.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
-  },
-  {
-    "id": "8d53baa926c2a457",
-    "title": "메디톡스, 의료진 200명 대상 미용의료 시술 전략 공유",
-    "link": "https://www.hankyung.com/article/202611245888i",
-    "source": "한국경제",
-    "category": "it",
-    "pubDate": "2026-11-24T00:00:12.000Z",
-    "collectedAt": "2026-11-25T00:13:25.171Z"
   },
   {
     "id": "483cc3cfc88ebb53",
@@ -4779,15 +4779,6 @@
     "collectedAt": "2026-11-25T00:13:25.175Z"
   },
   {
-    "id": "ec4764efa3549cff",
-    "title": "6살 때 시작된 악몽…의붓딸 둘 7년간 성폭행한 계부의 최후",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BUk9PLW1mMHRuOG92eHNFd181NEhPNmpDUnM4c040bXJCZ2JEbnB1VDladDBpY3EyQncyc1lVOGx5REM4Ulh1aVN6cWFhcTNKTlJUcw?oc=5",
-    "source": "JTBC",
-    "category": "politics",
-    "pubDate": "2026-11-23T05:01:00.000Z",
-    "collectedAt": "2026-11-25T00:13:25.173Z"
-  },
-  {
     "id": "873bfeaed2d142c1",
     "title": "또, 손님이 남긴 반찬 재사용…독감·간염 위험 있는데 왜 근절 되지 않을까?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ONEJBc1RtcGZ4T3F5Z2hxVnhKY2xzdS1QaEp3VVJTUWVhallBZ1hQYlphVDF5UjlhcndHQl9NQWVmZw?oc=5",
@@ -4795,6 +4786,15 @@
     "category": "health",
     "pubDate": "2026-11-23T05:01:00.000Z",
     "collectedAt": "2026-11-25T00:13:25.175Z"
+  },
+  {
+    "id": "ec4764efa3549cff",
+    "title": "6살 때 시작된 악몽…의붓딸 둘 7년간 성폭행한 계부의 최후",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BUk9PLW1mMHRuOG92eHNFd181NEhPNmpDUnM4c040bXJCZ2JEbnB1VDladDBpY3EyQncyc1lVOGx5REM4Ulh1aVN6cWFhcTNKTlJUcw?oc=5",
+    "source": "JTBC",
+    "category": "politics",
+    "pubDate": "2026-11-23T05:01:00.000Z",
+    "collectedAt": "2026-11-25T00:13:25.173Z"
   },
   {
     "id": "3318a9137976a361",
